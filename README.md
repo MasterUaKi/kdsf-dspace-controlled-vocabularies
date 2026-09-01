@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![KDSF Version](https://img.shields.io/badge/KDSF-v2.1-blue.svg)](https://kerndatensatz-forschung.de/)
-[![DSpace Compatibility](https://img.shields.io/badge/DSpace--CRIS-7.x%20%7C%208.x-orange.svg)](https://github.com/4Science/DSpace)
+[![DSpace Compatibility](https://img.shields.io/badge/DSpace--CRIS-7.x%20%7C%208.x%20%7C%209.x-orange.svg)](https://github.com/4Science/DSpace)
 
 [English](#english) | [Deutsch](#deutsch)
 
