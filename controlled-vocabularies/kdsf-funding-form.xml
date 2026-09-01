@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Förderform des Projekts
+  KDSF ID: Klassif-L-16 (KDSF-B-5-4)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_funding_form" label="KDSF Finanzierungsform">
+  <is-open value="false"/>
+  <node id="FF-1" label="Grundmittel / Institutionelle Mittel"/>
+  <node id="FF-2" label="Drittmittel"/>
+  <node id="FF-3" label="Sondermittel"/>
+  <node id="FF-4" label="Sonstige Mittel"/>
+  <node id="FF-5" label="Mischfinanzierung"/>
+</node>

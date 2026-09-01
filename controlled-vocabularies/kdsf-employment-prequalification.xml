@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Vorqualifikation
+  KDSF ID: Klassif-L-57 (KDSF-B-1-18)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 10
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_prequalification" label="KDSF Vorqualifikation bei 1. Berufung">
+  <is-open value="false"/>
+  <node id="1" label="Juniorprofessur mit Tenure-Track"/>
+  <node id="2" label="Juniorprofessur ohne Tenure-Track"/>
+  <node id="3" label="W2-Professur mit Tenure-Track"/>
+  <node id="4" label="W2/W3-Professur (befristet)"/>
+  <node id="5" label="Habilitation"/>
+  <node id="6" label="Nachwuchsgruppenleitung"/>
+  <node id="7" label="Sonstige habilitationsadäquate Leistung"/>
+  <node id="8" label="Besondere berufliche Qualifikation"/>
+  <node id="9" label="Promotion bei Professuren an Fachhochschulen"/>
+  <node id="0" label="Sonstiges"/>
+</node>

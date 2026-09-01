@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Gesamturteil / Notenstufen der Promotion
+  KDSF ID: Klassif-L-13 (KDSF-B-3-4)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_promotion_grade" label="KDSF Gesamturteil Promotion">
+  <is-open value="false"/>
+  <node id="GU-1" label="summa cum laude (mit Auszeichnung)"/>
+  <node id="GU-2" label="magna cum laude (sehr gut)"/>
+  <node id="GU-3" label="cum laude (gut)"/>
+  <node id="GU-4" label="rite (genügend / bestanden)"/>
+  <node id="GU-5" label="nicht bestanden"/>
+</node>

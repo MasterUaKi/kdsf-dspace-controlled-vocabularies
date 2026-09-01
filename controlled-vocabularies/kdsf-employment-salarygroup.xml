@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Besoldungs- und Vergütungsgruppen
+  KDSF ID: Klassif-L-8 (KDSF-B-1-7)
+  Standard: Statistisches Bundesamt (StBA), SV Personalstatistik Nr. 7
+  Total Entries: 251
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_salarygroup" label="KDSF Besoldungs- und Vergütungsgruppen">
+  <is-open value="false"/>
+  <node id="KDSF_PROF" label="KDSF Professorenbesoldung (Klassif-L-8)">
+    <node id="BV-1" label="W1 (W 1)"/>
+    <node id="BV-2" label="C2 (C 2)"/>
+    <node id="BV-3" label="W2/C3 (W 2, C 3)"/>
+    <node id="BV-4" label="W3/C4 (W 3, C 4)"/>
+    <node id="BV-5" label="B1 (B 1)"/>
+    <node id="BV-6" label="B2 (B 2)"/>
+    <node id="BV-7" label="B3 (B 3)"/>
+    <node id="BV-8" label="B4 (B 4)"/>
+    <node id="BV-9" label="B5 (B 5)"/>
+    <node id="BV-10" label="B6 (B 6)"/>
+    <node id="BV-11" label="B7 (B 7)"/>
+    <node id="BV-12" label="B8 (B 8)"/>
+    <node id="BV-13" label="B9 (B 9)"/>
+    <node id="BV-14" label="B10 (B 10)"/>
+    <node id="BV-15" label="B11 (B 11)"/>
+    <node id="BV-16" label="Sonstiges (abweichende Vergütung / Angestelltenverhältnis)"/>
+  </node>
+  <node id="BEAMTE" label="Beamte, Richter">
+    <node id="BEAMTE_HD" label="Höherer Dienst">
+      <node id="1257" label="W 1"/>
+      <node id="1240" label="C 2"/>
+      <node id="1230" label="C 3"/>
+      <node id="1255" label="W 2"/>
+      <node id="1220" label="C 4"/>
+      <node id="1253" label="W 3"/>
+      <node id="1110" label="B 1"/>
+      <node id="1100" label="B 2"/>
+      <node id="1090" label="B 3"/>
+      <node id="1080" label="B 4"/>
+      <node id="1070" label="B 5"/>
+      <node id="1060" label="B 6"/>
+      <node id="1050" label="B 7"/>
+      <node id="1040" label="B 8"/>
+      <node id="1030" label="B 9"/>
+      <node id="1020" label="B 10"/>
+      <node id="1010" label="B 11"/>
+      <node id="1250" label="C 1"/>
+      <node id="1120" label="R 10"/>
+      <node id="1130" label="R 9"/>
+      <node id="1140" label="R 8"/>
+      <node id="1150" label="R 7"/>
+      <node id="1160" label="R 6"/>
+      <node id="1170" label="R 5"/>
+      <node id="1180" label="R 4"/>
+      <node id="1190" label="R 3"/>
+      <node id="1200" label="R 2"/>
+      <node id="1210" label="R 1"/>
+      <node id="1260" label="H 4"/>
+      <node id="1270" label="H 3"/>
+      <node id="1280" label="H 2"/>
+      <node id="1290" label="H 1"/>
+      <node id="1340" label="A 16 + Zulage"/>
+      <node id="1300" label="A 16"/>
+      <node id="1310" label="A 15"/>
+      <node id="1320" label="A 14"/>
+      <node id="1330" label="A 13"/>
+      <node id="1991" label="Höherer Dienst in Ausbildung"/>
+    </node>
+    <node id="BEAMTE_GD" label="Gehobener Dienst">
+      <node id="2310" label="A 16 \'L\'"/>
+      <node id="2340" label="A 15 \'L\'"/>
+      <node id="2350" label="A 14 \'L\'"/>
+      <node id="2320" label="A 14 \'S\'"/>
+      <node id="2360" label="A 13 \'L\'"/>
+      <node id="2330" label="A 13 \'S\' + Zulage"/>
+      <node id="2370" label="A 13 \'S\'"/>
+      <node id="2380" label="A 12"/>
+      <node id="2390" label="A 11"/>
+      <node id="2400" label="A 10"/>
+      <node id="2410" label="A 9"/>
+      <node id="2991" label="Gehobener Dienst in Ausbildung"/>
+    </node>
+    <node id="BEAMTE_MD" label="Mittlerer Dienst">
+      <node id="3400" label="A 11 \'S\'"/>
+      <node id="3410" label="A 10 \'S\'"/>
+      <node id="3420" label="A 9 \'S\' + Zulage"/>
+      <node id="3430" label="A 9 \'S\'"/>
+      <node id="3440" label="A 8"/>
+      <node id="3450" label="A 7"/>
+      <node id="3460" label="A 6"/>
+      <node id="3470" label="A 5"/>
+      <node id="3991" label="Mittlerer Dienst in Ausbildung"/>
+    </node>
+    <node id="BEAMTE_ED" label="Einfacher Dienst">
+      <node id="4530" label="A 6 \'S\'"/>
+      <node id="4520" label="A 5 \'S\' + Zulage"/>
+      <node id="4480" label="A 5 \'S\'"/>
+      <node id="4490" label="A 4"/>
+      <node id="4500" label="A 3"/>
+      <node id="4510" label="A 2"/>
+      <node id="4540" label="A 1"/>
+      <node id="4991" label="Einfacher Dienst in Ausbildung"/>
+    </node>
+    <node id="BEAMTE_AUSSERHALB" label="Außerhalb der Besoldungsgruppen / Ausb. / Ohne">
+      <node id="5991" label="Beamte in Ausbildung (nicht aufteilbar, Bayern)"/>
+      <node id="9974" label="Außerhalb Besoldungsgruppen: Höherer Dienst"/>
+      <node id="9973" label="Außerhalb Besoldungsgruppen: Gehobener Dienst"/>
+      <node id="9972" label="Außerhalb Besoldungsgruppen: Mittlerer Dienst"/>
+      <node id="9971" label="Außerhalb Besoldungsgruppen: Einfacher Dienst"/>
+      <node id="9975" label="Außerhalb Besoldungsgruppen: Nicht aufteilbar (Bayern)"/>
+      <node id="9996" label="Ohne Besoldung/Vergütung"/>
+    </node>
+  </node>
+  <node id="TVOED_TVL" label="Arbeitnehmer nach TVöD/TV-L">
+    <node id="TVOED_HD" label="Höherer Dienst">
+      <node id="1530" label="Außertariflich (E 15 Ü TVöD/TV-L, ATB)"/>
+      <node id="1810" label="E 15 Ü (E 15 Ü TVöD/TV-L, ATB)"/>
+      <node id="1820" label="E 15 (E 15 TVöD/TV-L)"/>
+      <node id="1830" label="E 14 (E 14 TVöD/TV-L)"/>
+      <node id="1840" label="E 13 Ü (E 13 TVöD/TV-L)"/>
+      <node id="1850" label="E 13 h (E 13 TVöD/TV-L)"/>
+      <node id="1992" label="Höherer Dienst in Ausbildung"/>
+    </node>
+    <node id="TVOED_GD" label="Gehobener Dienst">
+      <node id="2840" label="E 13 g"/>
+      <node id="2850" label="E 12"/>
+      <node id="2860" label="E 11"/>
+      <node id="2870" label="E 10"/>
+      <node id="2880" label="E 9 g"/>
+      <node id="2890" label="E 9 c"/>
+      <node id="2900" label="E 9 b"/>
+      <node id="2992" label="Gehobener Dienst in Ausbildung"/>
+    </node>
+    <node id="TVOED_MD" label="Mittlerer Dienst">
+      <node id="3790" label="E 9 a"/>
+      <node id="3800" label="E 9 m"/>
+      <node id="3810" label="E 8"/>
+      <node id="3820" label="E 7"/>
+      <node id="3880" label="E 6"/>
+      <node id="3890" label="E 5 m"/>
+      <node id="3992" label="Mittlerer Dienst in Ausbildung"/>
+    </node>
+    <node id="TVOED_ED" label="Einfacher Dienst">
+      <node id="4800" label="E 5 e"/>
+      <node id="4810" label="E 4"/>
+      <node id="4820" label="E 3"/>
+      <node id="4830" label="E 2 Ü"/>
+      <node id="4840" label="E 2"/>
+      <node id="4850" label="E 1"/>
+      <node id="4992" label="Einfacher Dienst in Ausbildung"/>
+    </node>
+    <node id="TVOED_SONSTIGE" label="Auszubildende / Außerhalb / Ohne">
+      <node id="5993" label="Auszubildende(r)"/>
+      <node id="6993" label="Praktikant(in)"/>
+      <node id="9984" label="Außerhalb TVöD: Höherer Dienst"/>
+      <node id="9983" label="Außerhalb TVöD: Gehobener Dienst"/>
+      <node id="9982" label="Außerhalb TVöD: Mittlerer Dienst"/>
+      <node id="9981" label="Außerhalb TVöD: Einfacher Dienst"/>
+      <node id="9985" label="Außerhalb TVöD: Nicht aufteilbar (Bayern)"/>
+      <node id="9997" label="Ohne Besoldung/Vergütung"/>
+    </node>
+  </node>
+  <node id="AERZTE" label="Ärzte (TV-Ärzte Universitätskliniken)">
+    <node id="1610" label="Arzt"/>
+    <node id="1620" label="Facharzt"/>
+    <node id="1630" label="Oberarzt"/>
+    <node id="1640" label="Ständiger Vertreter des ltd. Arztes"/>
+  </node>
+  <node id="PFLEGE_TV" label="Pflegepersonal (TV-L Anlage C, TVöD Anlage E / P-Tabelle)">
+    <node id="2090" label="KR 17"/>
+    <node id="2100" label="E 12a = P 16 = KR 16"/>
+    <node id="2110" label="E 11b = P 15 = KR 15"/>
+    <node id="2120" label="E 11a = P 14 = KR 14"/>
+    <node id="2130" label="E 10a = P 13 = KR 13"/>
+    <node id="2140" label="E 9d = P 12 = KR 12"/>
+    <node id="2150" label="E 9c = P 11 = KR 11"/>
+    <node id="2160" label="E 9b = P 10 = KR 10"/>
+    <node id="2170" label="E 9a = P 9 = KR 9"/>
+    <node id="3100" label="E 8a = P 8 = KR 8"/>
+    <node id="3110" label="E 7a = P 7 = KR 7"/>
+    <node id="3120" label="E 4a = P 6 = KR 6"/>
+    <node id="3993" label="Lernschwester, -pfleger"/>
+    <node id="4100" label="E 3a = P 5 = KR 5"/>
+    <node id="4993" label="Pflegehilfeschüler"/>
+  </node>
+  <node id="SOZIAL_ERZIEHUNG" label="Sozial- und Erziehungsdienst (TVöD-VKA Anlage C / S-Tabelle)">
+    <node id="2500" label="S 18"/>
+    <node id="2510" label="S 17"/>
+    <node id="2520" label="S 16 Ü"/>
+    <node id="2530" label="S 16"/>
+    <node id="2540" label="S 15"/>
+    <node id="2550" label="S 14"/>
+    <node id="2560" label="S 13 Ü"/>
+    <node id="2570" label="S 13"/>
+    <node id="2580" label="S 12"/>
+    <node id="2590" label="S 11b"/>
+    <node id="3500" label="S 11a"/>
+    <node id="3510" label="S 10"/>
+    <node id="3520" label="S 9"/>
+    <node id="3530" label="S 8b"/>
+    <node id="3540" label="S 8a"/>
+    <node id="3550" label="S 7"/>
+    <node id="3560" label="S 6"/>
+    <node id="3570" label="S 5"/>
+    <node id="3580" label="S 4"/>
+    <node id="4600" label="S 3"/>
+    <node id="4610" label="S 2"/>
+  </node>
+  <node id="ARBEITER" label="Arbeiter (Lohngruppen nach Manteltarifverträgen)">
+    <node id="5110" label="Lohngruppe 9"/>
+    <node id="5210" label="Lohngruppe 8a"/>
+    <node id="5250" label="Lohngruppe 8"/>
+    <node id="5310" label="Lohngruppe 7a"/>
+    <node id="5350" label="Lohngruppe 7"/>
+    <node id="5410" label="Lohngruppe 6a"/>
+    <node id="5450" label="Lohngruppe 6"/>
+    <node id="5510" label="Lohngruppe 5a"/>
+    <node id="5550" label="Lohngruppe 5"/>
+    <node id="5610" label="Lohngruppe 4a"/>
+    <node id="5650" label="Lohngruppe 4"/>
+    <node id="5710" label="Lohngruppe 3a"/>
+    <node id="5750" label="Lohngruppe 3"/>
+    <node id="5810" label="Lohngruppe 2a"/>
+    <node id="5850" label="Lohngruppe 2"/>
+    <node id="5950" label="Lohngruppe 1"/>
+    <node id="5910" label="Lohngruppe 1a"/>
+    <node id="5994" label="Auszubildende(r) (Arbeiter)"/>
+    <node id="6210" label="Nicht aufteilbar"/>
+    <node id="9991" label="Außerhalb der Lohngruppen"/>
+    <node id="9999" label="Ohne Besoldung/Vergütung"/>
+  </node>
+  <node id="BAT_HISTORISCH" label="Angestellte nach BAT (Historische Überleitung)">
+    <node id="BAT_ALLGEMEIN" label="BAT Anlage 1a (Wiss., Verw., Techn.)">
+      <node id="1540" label="BAT I"/>
+      <node id="1550" label="BAT Ia"/>
+      <node id="1560" label="BAT Ib"/>
+      <node id="1570" label="BAT IIa"/>
+      <node id="1580" label="BAT II"/>
+      <node id="1590" label="BAT IIb"/>
+      <node id="2600" label="BAT IIa \'S\'"/>
+      <node id="2610" label="BAT II \'S\'"/>
+      <node id="2620" label="BAT III"/>
+      <node id="2630" label="BAT IVa"/>
+      <node id="2640" label="BAT IVb"/>
+      <node id="2650" label="BAT Va"/>
+      <node id="2660" label="BAT Vb"/>
+      <node id="3670" label="BAT Vb \'S\'"/>
+      <node id="3680" label="BAT Vc"/>
+      <node id="3690" label="BAT VIa"/>
+      <node id="3700" label="BAT VIb"/>
+      <node id="3710" label="BAT VII"/>
+      <node id="3720" label="BAT VIII"/>
+      <node id="4720" label="BAT VIII \'S\'"/>
+      <node id="4730" label="BAT IXa"/>
+      <node id="4740" label="BAT IXb"/>
+      <node id="4750" label="BAT IX"/>
+      <node id="4760" label="BAT X"/>
+    </node>
+    <node id="BAT_PFLEGE" label="BAT Anlage 1b (Pflegepersonal / Kr-Gruppen)">
+      <node id="2260" label="Kr. XIII"/>
+      <node id="2770" label="Kr. XII"/>
+      <node id="2780" label="Kr. XI"/>
+      <node id="2790" label="Kr. X"/>
+      <node id="2800" label="Kr. IX"/>
+      <node id="2810" label="Kr. VIII"/>
+      <node id="2820" label="Kr. VII"/>
+      <node id="3270" label="Kr. VII \'S\'"/>
+      <node id="3830" label="Kr. VI"/>
+      <node id="3280" label="Kr. Va"/>
+      <node id="3840" label="Kr. V"/>
+      <node id="3850" label="Kr. IV"/>
+      <node id="3860" label="Kr. III"/>
+      <node id="4290" label="Kr. IV \'S\'"/>
+      <node id="4280" label="Kr. III \'S\'"/>
+      <node id="4870" label="Kr. II"/>
+      <node id="4880" label="Kr. I"/>
+      <node id="6310" label="Nicht aufteilbar (Pflege BAT)"/>
+      <node id="9998" label="Ohne Besoldung/Vergütung (Pflege BAT)"/>
+    </node>
+  </node>
+</node>

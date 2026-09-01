@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Hochschultyp nach HSI-Monitor
+  KDSF ID: Klassif-L-70 (KDSF-B-15-41)
+  Standard: HSI-Monitor (Thema 'Internationale Publikationen')
+  Total Entries: 2
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_hsi_institutiontype" label="KDSF Hochschultyp (HSI-Monitor)">
+  <is-open value="false"/>
+  <node id="Universitaet" label="Universität"/>
+  <node id="Fachhochschule_HAW" label="Fachhochschule/HAW"/>
+</node>

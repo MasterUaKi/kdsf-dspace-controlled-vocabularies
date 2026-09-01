@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Personengruppen
+  KDSF ID: Klassif-L-3 (KDSF-B-1-3)
+  Standard: Statistisches Bundesamt (StBA), SV Personalstatistik Nr. 2
+  Total Entries: 2
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_promotion_registrationtype" label="KDSF Art der Registrierung">
+  <is-open value="false"/>
+  <node id="1" label="Erstregistrierung"/>
+  <node id="2" label="Neuregistrierung"/>
+</node>

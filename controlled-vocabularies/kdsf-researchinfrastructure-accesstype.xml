@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Zugangsart der Infrastruktur
+  KDSF ID: Klassif-L-1 (KDSF-B-13-11)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_researchinfrastructure_accesstype" label="KDSF Art des Zugangs zur Forschungsinfrastruktur">
+  <is-open value="false"/>
+  <node id="AI-1" label="Lokal"/>
+  <node id="AI-2" label="Verteilt"/>
+  <node id="AI-3" label="Virtuell"/>
+</node>

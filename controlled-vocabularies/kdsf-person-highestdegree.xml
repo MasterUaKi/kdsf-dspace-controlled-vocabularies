@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Höchster akademischer Abschluss
+  KDSF ID: Klassif-L-28 (KDSF-B-1-17)
+  Standard: Statistisches Bundesamt (StBA)
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_person_highestdegree" label="KDSF Höchster Hochschulabschluss">
+  <is-open value="false"/>
+  <node id="01" label="Habilitation"/>
+  <node id="02" label="Promotion"/>
+  <node id="03" label="Master (U) und entsprechende Lehramtsprüfungen, Master (FH), Diplom (U), Staatsexamen, Magister und vergleichbare Abschlüsse"/>
+  <node id="04" label="Bachelor (U), Bachelor (FH), Fachhochschulabschluss, Diplom (FH) und vergleichbare Abschlüsse"/>
+  <node id="05" label="Kein Hochschulabschluss"/>
+</node>

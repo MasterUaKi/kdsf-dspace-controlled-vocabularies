@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Projektziel / Vorhabensziel
+  KDSF ID: Klassif-L-39 (KDSF-B-5-9)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_project_objective" label="KDSF Projektziel">
+  <is-open value="false"/>
+  <node id="PZ-1" label="Forschung"/>
+  <node id="PZ-2" label="Lehre"/>
+  <node id="PZ-3" label="Förderung der wissenschaftlichen Qualifikation"/>
+  <node id="PZ-4" label="Transfer"/>
+  <node id="PZ-5" label="Sonstiges"/>
+</node>

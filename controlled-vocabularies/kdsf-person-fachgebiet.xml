@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Fachgebiet (Destatis Viersteller)
+  KDSF ID: Klassif-L-60 (KDSF-B-14-3)
+  Standard: Statistisches Bundesamt (StBA), SV Personalstatistik Nr. 4.1
+  Total Entries: 580
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_person_fachgebiet" label="KDSF Fachgebiete der Habilitation (Destatis)">
+  <is-open value="false"/>
+  <node id="2250" label="Afrika-Studien"/>
+  <node id="1420" label="Afrikanistik"/>
+  <node id="6100" label="Agrar-, Forst- und Ernährungswissenschaften allgemein"/>
+  <node id="6205" label="Agrarbiologie"/>
+  <node id="6210" label="Agrartechnik"/>
+  <node id="6200" label="Agrarwissenschaften allgemein"/>
+  <node id="8805" label="Akademische Selbstverwaltung"/>
+  <node id="9230" label="Akademisches Auslandsamt"/>
+  <node id="7950" label="Aktionen, Performance, Environment, Fotografie"/>
+  <node id="3440" label="Algebra, Diskrete Mathematik und Zahlentheorie"/>
+  <node id="7110" label="Allgemeine Elektrotechnik"/>
+  <node id="8800" label="Allgemeine Hochschulverwaltung"/>
+  <node id="2770" label="Allgemeine innere Verwaltung"/>
+  <node id="1650" label="Allgemeine Kulturwissenschaft"/>
+  <node id="1750" label="Allgemeine und kognitive Psychologie"/>
+  <node id="0800" label="Allgemeine und vergleichende Literatur- und Sprachwissenschaft allgemein"/>
+  <node id="0820" label="Allgemeine und vergleichende Literaturwissenschaft"/>
+  <node id="0810" label="Allgemeine und vergleichende Sprachwissenschaft"/>
+  <node id="4910" label="Allgemeinmedizin"/>
+  <node id="0520" label="Alte Geschichte"/>
+  <node id="0210" label="Altes Testament (ev.)"/>
+  <node id="0390" label="Altkatholische Theologie"/>
+  <node id="1430" label="Altorientalistik"/>
+  <node id="0900" label="Altphilologie allgemein"/>
+  <node id="8905" label="Ambulanz, Konsiliardienst"/>
+  <node id="1110" label="Amerikanistik"/>
+  <node id="3445" label="Analysis"/>
+  <node id="3750" label="Analytische Chemie"/>
+  <node id="5510" label="Anatomie, Embryologie und Histologie"/>
+  <node id="4560" label="Anatomie/Neuroanatomie"/>
+  <node id="5840" label="Andrologie und Haustierbesamung"/>
+  <node id="6105" label="Angewandte Biotechnologie"/>
+  <node id="3520" label="Angewandte Informatik"/>
+  <node id="8050" label="Angewandte Kunst"/>
+  <node id="6106" label="Angewandte Maschinenbautechnik"/>
+  <node id="6107" label="Angewandte Naturwissenschaften"/>
+  <node id="0830" label="Angewandte Sprachwissenschaft, berufsbezogene Fremdsprachenausbildung"/>
+  <node id="6108" label="Angewandte Verfahrenstechnik"/>
+  <node id="1100" label="Anglistik"/>
+  <node id="3710" label="Anorganische Chemie"/>
+  <node id="4220" label="Anthropogeographie"/>
+  <node id="4060" label="Anthropologie (Humanbiologie)"/>
+  <node id="5070" label="Anästhesiologie"/>
+  <node id="8930" label="Apotheke"/>
+  <node id="2820" label="Arbeits- und Sozialverwaltung, Berufsberatung"/>
+  <node id="1715" label="Arbeits-, Organisations- und Wirtschaftspsychologie"/>
+  <node id="3010" label="Arbeitslehre/-wissenschaft"/>
+  <node id="5090" label="Arbeitsmedizin (klinisch-praktisch)"/>
+  <node id="4705" label="Arbeitsmedizin (klinisch-theoretisch)"/>
+  <node id="2630" label="Arbeitsrecht"/>
+  <node id="7300" label="Architektur allgemein"/>
+  <node id="9050" label="Archiv"/>
+  <node id="2711" label="Archiv- und Bibliothekswesen"/>
+  <node id="0720" label="Archiv- und Dokumentationswissenschaft"/>
+  <node id="0570" label="Archäologie"/>
+  <node id="6870" label="Archäometrie (Ingenieurarchäologie)"/>
+  <node id="3690" label="Astrophysik und Astronomie"/>
+  <node id="6860" label="Aufbereitung und Veredelung"/>
+  <node id="5020" label="Augenheilkunde"/>
+  <node id="2730" label="Auswärtige Angelegenheiten"/>
+  <node id="6760" label="Automatisierungstechnik"/>
+  <node id="1570" label="Außereurop. Sprachen und Kulturen Amerikas"/>
+  <node id="1575" label="Außereurop. Sprachen und Kulturen Australiens"/>
+  <node id="1380" label="Balkanologie"/>
+  <node id="1350" label="Baltistik"/>
+  <node id="7350" label="Bau- und Architekturgeschichte"/>
+  <node id="7540" label="Baubetriebswesen/Baumanagement"/>
+  <node id="7580" label="Bauinformatik"/>
+  <node id="7500" label="Bauingenieurwesen allgemein"/>
+  <node id="7570" label="Baustofftechnik"/>
+  <node id="7330" label="Bautechnik und Baubetrieb"/>
+  <node id="6810" label="Bergbau und mineralische Rohstoffwirtschaft"/>
+  <node id="6800" label="Bergbau, Hüttenwesen allgemein"/>
+  <node id="6830" label="Bergbauliche Betriebswirtschaft"/>
+  <node id="6820" label="Bergtechnik"/>
+  <node id="6840" label="Bergwirtschaft, Bergrecht"/>
+  <node id="1805" label="Berufs- und Wirtschaftspädagogik"/>
+  <node id="2960" label="Betriebswirtschaftslehre"/>
+  <node id="9000" label="Bibliothek"/>
+  <node id="0710" label="Bibliothekswissenschaft (nicht für Verwaltungs-FH)"/>
+  <node id="0310" label="Biblische Theologie (kath.)"/>
+  <node id="7900" label="Bildende Kunst allgemein"/>
+  <node id="4065" label="Biochemie (für Biologen)"/>
+  <node id="3760" label="Biochemie (für Chemiker)"/>
+  <node id="3540" label="Bioinformatik"/>
+  <node id="4000" label="Biologie allgemein"/>
+  <node id="1760" label="Biologische und Neuropsychologie"/>
+  <node id="4720" label="Biomathematik (für Mediziner)"/>
+  <node id="4725" label="Biomedizinische Technik"/>
+  <node id="4030" label="Biophysik"/>
+  <node id="4035" label="Biotechnologie (für Biologen)"/>
+  <node id="6905" label="Bioverfahrenstechnik"/>
+  <node id="4040" label="Botanik"/>
+  <node id="6260" label="Brauwesen/Getränketechnik"/>
+  <node id="2790" label="Bundeswehr, Justiz und Polizei"/>
+  <node id="0930" label="Byzantinistik"/>
+  <node id="8060" label="Bühnenbild, Kostüm"/>
+  <node id="2670" label="Bürgerliches Recht"/>
+  <node id="0315" label="Caritaswissenschaft"/>
+  <node id="3700" label="Chemie allgemein"/>
+  <node id="3670" label="Chemische Physik und Polymerphysik"/>
+  <node id="6955" label="Chemische Verfahrenstechnik"/>
+  <node id="4980" label="Chirurgie"/>
+  <node id="3550" label="Computer- und Kommunikationstechniken"/>
+  <node id="0835" label="Computerlinguistik"/>
+  <node id="8200" label="Darst. Kunst, Film und Fernsehen, Theaterwissenschaft allgemein"/>
+  <node id="8210" label="Darstellende Kunst"/>
+  <node id="2340" label="Demographie"/>
+  <node id="7335" label="Denkmalpflege (Architektur)"/>
+  <node id="4960" label="Dermato-Venerologie"/>
+  <node id="8070" label="Designtheorie, -geschichte"/>
+  <node id="1040" label="Deutsch als Fremdsprache oder als Zweitsprache"/>
+  <node id="1080" label="Deutsche Literaturwissenschaft"/>
+  <node id="1090" label="Deutsche Sprachwissenschaft"/>
+  <node id="0215" label="Diakoniewissenschaft"/>
+  <node id="1801" label="Didaktik"/>
+  <node id="0960" label="Didaktik der Altphilologie"/>
+  <node id="4070" label="Didaktik der Biologie"/>
+  <node id="3800" label="Didaktik der Chemie"/>
+  <node id="1050" label="Didaktik der deutschen Sprache"/>
+  <node id="4250" label="Didaktik der Geographie"/>
+  <node id="0580" label="Didaktik der Geschichte"/>
+  <node id="3450" label="Didaktik der Mathematik"/>
+  <node id="4410" label="Didaktik der Medizin"/>
+  <node id="0420" label="Didaktik der Philosophie/der Ethik"/>
+  <node id="3650" label="Didaktik der Physik"/>
+  <node id="1120" label="Didaktik des Englischen"/>
+  <node id="1215" label="Didaktik des Französischen"/>
+  <node id="1225" label="Didaktik des Italienischen"/>
+  <node id="1235" label="Didaktik des Spanischen"/>
+  <node id="2005" label="Didaktik des Sports"/>
+  <node id="1710" label="Differentielle Psychologie, Persönlichkeitspsychologie und Diagnostik"/>
+  <node id="8340" label="Dirigieren"/>
+  <node id="8075" label="Edelstein- und Schmuckdesign"/>
+  <node id="7120" label="Elektrische Energietechnik"/>
+  <node id="3830" label="Elektrochemie"/>
+  <node id="7100" label="Elektrotechnik und Informationstechnik allgemein"/>
+  <node id="3636" label="Elementarteilchen, Kerne und Felder"/>
+  <node id="2355" label="Empirie und Methoden"/>
+  <node id="1802" label="Empirische Bildungsforschung"/>
+  <node id="6930" label="Energieverfahrenstechnik"/>
+  <node id="1720" label="Entwicklungspsychologie"/>
+  <node id="4745" label="Epidemiologie"/>
+  <node id="4460" label="Ergotherapie"/>
+  <node id="6500" label="Ernährungs- und Haushaltswissenschaften allgemein"/>
+  <node id="6520" label="Ernährungswissenschaften"/>
+  <node id="1820" label="Erwachsenenbildung"/>
+  <node id="1800" label="Erziehungswissenschaften allgemein"/>
+  <node id="1580" label="Ethnologie"/>
+  <node id="2665" label="Europarecht"/>
+  <node id="1660" label="Europäische Ethnologie"/>
+  <node id="0200" label="Evang. Theologie allgemein"/>
+  <node id="4820" label="Experimentelle Medizin/Medizinforschung (ohne klinische Medizin)"/>
+  <node id="3110" label="Facility Management"/>
+  <node id="7240" label="Fahrzeug- und Flugzeugbau"/>
+  <node id="7245" label="Fahrzeugtechnik"/>
+  <node id="8810" label="Fakultäts-/Fachbereichsverwaltung"/>
+  <node id="7125" label="Feinwerktechnik (elektrisch)"/>
+  <node id="7190" label="Feinwerktechnik (mechanisch)"/>
+  <node id="3680" label="Festkörper-, Oberflächen- und Materialphysik"/>
+  <node id="8250" label="Film und Fernsehen"/>
+  <node id="2760" label="Finanz-, Zoll- und Steuerverwaltung"/>
+  <node id="2980" label="Finanzwissenschaft"/>
+  <node id="1370" label="Finno-Ugristik"/>
+  <node id="5670" label="Fleisch-, Lebensmittel- und Milchhygiene"/>
+  <node id="9280" label="Forschungs-/Technologie-/Transferstellen"/>
+  <node id="6420" label="Forstliche Fachwissenschaften"/>
+  <node id="6410" label="Forstliche Grundlagenwissenschaften"/>
+  <node id="6400" label="Forstwissenschaft, Holzwirtschaft allgemein"/>
+  <node id="1210" label="Französische Sprach- und Literaturwissenschaft"/>
+  <node id="0840" label="Fremdsprachenausbildung (für Hörer aller Fakultäten)"/>
+  <node id="6300" label="Gartenbau"/>
+  <node id="7340" label="Gebäudeplanung"/>
+  <node id="0100" label="Geisteswissenschaften allgemein"/>
+  <node id="4010" label="Genetik"/>
+  <node id="4180" label="Geochemie"/>
+  <node id="4200" label="Geographie allgemein"/>
+  <node id="4230" label="Geographische Länder- und Landschaftskunde"/>
+  <node id="4205" label="Geoinformatik/Geoinformationssysteme"/>
+  <node id="4110" label="Geologie"/>
+  <node id="3460" label="Geometrie und Topologie"/>
+  <node id="4150" label="Geophysik"/>
+  <node id="4100" label="Geowissenschaften allgemein"/>
+  <node id="4190" label="Geoökologie"/>
+  <node id="5120" label="Geriatrie/Gerontologie"/>
+  <node id="5850" label="Gerichtliche Veterinärmedizin"/>
+  <node id="1000" label="Germanistik (Deutsch, germanische Sprachen ohne Anglistik) allgemein"/>
+  <node id="8320" label="Gesang"/>
+  <node id="0500" label="Geschichte allgemein"/>
+  <node id="4760" label="Geschichte der Medizin"/>
+  <node id="0425" label="Geschichte der Philosophie"/>
+  <node id="8000" label="Gestaltung allgemein"/>
+  <node id="7320" label="Gestaltung und Darstellung"/>
+  <node id="4451" label="Gesundheitspädagogik"/>
+  <node id="4453" label="Gesundheitswissenschaft/-management"/>
+  <node id="4450" label="Gesundheitswissenschaften allgemein"/>
+  <node id="4459" label="Gesundheitsökonomie"/>
+  <node id="7940" label="Graphik"/>
+  <node id="8076" label="Graphikdesign/Kommunikationsgestaltung"/>
+  <node id="0910" label="Griechische Philologie"/>
+  <node id="7410" label="Grundlagen der Raumplanung"/>
+  <node id="7310" label="Grundlagen und Hilfswissenschaften der Architektur"/>
+  <node id="1803" label="Grundschul- und Primarstufenpädagogik"/>
+  <node id="4990" label="Gynäkologie"/>
+  <node id="5030" label="Hals-, Nasen-, Ohrenheilkunde"/>
+  <node id="2620" label="Handelsrecht"/>
+  <node id="6510" label="Haushaltswissenschaften"/>
+  <node id="4461" label="Hebammenwissenschaft"/>
+  <node id="1804" label="Historische Bildungsforschung"/>
+  <node id="0230" label="Historische Theologie (ev.)"/>
+  <node id="0320" label="Historische Theologie (kath.)"/>
+  <node id="8700" label="Hochschule allgemein"/>
+  <node id="7040" label="Holztechnik"/>
+  <node id="6415" label="Holzwirtschaft"/>
+  <node id="6430" label="Holzwissenschaften"/>
+  <node id="4750" label="Humangenetik"/>
+  <node id="4400" label="Humanmedizin allgemein"/>
+  <node id="4155" label="Hydrologie"/>
+  <node id="4780" label="Hygiene und medizinische Mikrobiologie"/>
+  <node id="6845" label="Hütten- und Gießereiwesen"/>
+  <node id="1230" label="Iberoromanische Sprach- und Literaturwissenschaft"/>
+  <node id="4810" label="Immunologie"/>
+  <node id="1490" label="Indologie"/>
+  <node id="8010" label="Industriedesign/Produktgestaltung"/>
+  <node id="3500" label="Informatik allgemein"/>
+  <node id="0700" label="Informations- und Bibliothekswissenschaften allgemein"/>
+  <node id="0730" label="Informationswissenschaft"/>
+  <node id="7450" label="Infrastrukturplanung"/>
+  <node id="3530" label="Ingenieurinformatik/Technische Informatik"/>
+  <node id="6700" label="Ingenieurwissenschaften allgemein"/>
+  <node id="7390" label="Innenarchitektur"/>
+  <node id="4940" label="Innere Medizin"/>
+  <node id="5860" label="Innere Veterinärmedizin einschl. Labordiagnostik"/>
+  <node id="8310" label="Instrumentalmusik"/>
+  <node id="0120" label="Interdisziplinäre Studien (Schwerpunkt Geisteswissenschaften)"/>
+  <node id="6740" label="Interdisziplinäre Studien (Schwerpunkt Ingenieurwesen - ohne Mechatronik)"/>
+  <node id="3320" label="Interdisziplinäre Studien (Schwerpunkt Naturwissenschaft)"/>
+  <node id="2210" label="Interdisziplinäre Studien (Schwerpunkt Sozial- und Verhaltenswissenschaften)"/>
+  <node id="1829" label="Interkulturelle und International Vergleichende Erziehungswissenschaft"/>
+  <node id="2350" label="Internationale Politik, Internationale Beziehungen"/>
+  <node id="2966" label="Internationale Wirtschaft"/>
+  <node id="2580" label="Internationales Recht und Rechtsvergleichung"/>
+  <node id="1480" label="Iranistik"/>
+  <node id="1950" label="Islamische Studien/Islamische Theologie"/>
+  <node id="1470" label="Islamwissenschaft"/>
+  <node id="1220" label="Italienische Sprach- und Literaturwissenschaft"/>
+  <node id="1540" label="Japanologie"/>
+  <node id="8315" label="Jazz und Popularmusik"/>
+  <node id="1460" label="Judaistik/Hebräisch"/>
+  <node id="0350" label="Kanonistik (kath.)"/>
+  <node id="7610" label="Kartographie"/>
+  <node id="0300" label="Kath. Theologie allgemein"/>
+  <node id="1465" label="Kaukasistik"/>
+  <node id="5240" label="Kieferorthopädie"/>
+  <node id="5160" label="Kinder- und Jugendpsychiatrie"/>
+  <node id="4950" label="Kinderheilkunde"/>
+  <node id="1826" label="Kindheitspädagogik"/>
+  <node id="8325" label="Kirchenmusik"/>
+  <node id="2540" label="Kirchenrecht"/>
+  <node id="8900" label="Kliniken insgesamt, Zentrale Dienste der Kliniken allgemein"/>
+  <node id="8910" label="Klinikverwaltung (einschl. Rechenzentrum)"/>
+  <node id="4900" label="Klinisch-Praktische Humanmedizin allgemein"/>
+  <node id="5800" label="Klinisch-Praktische Veterinärmedizin allgemein"/>
+  <node id="4700" label="Klinisch-Theoretische Humanmedizin allgemein"/>
+  <node id="5600" label="Klinisch-Theoretische Veterinärmedizin allgemein"/>
+  <node id="4730" label="Klinische Chemie und Hämatologie"/>
+  <node id="4732" label="Klinische Krebsforschung und molekulare Tumorforschung"/>
+  <node id="3950" label="Klinische Pharmazie"/>
+  <node id="1740" label="Klinische Psychologie, Diagnostik und Psychotherapie"/>
+  <node id="7130" label="Kommunikations- und Informationstechnik"/>
+  <node id="2240" label="Kommunikationswissenschaft/Publizistik"/>
+  <node id="8330" label="Komposition"/>
+  <node id="7510" label="Konstruktiver Ingenieurbau"/>
+  <node id="1550" label="Koreanistik"/>
+  <node id="5910" label="Krankheiten der Haus- und Nutztiere"/>
+  <node id="2545" label="Kriminologie"/>
+  <node id="4170" label="Kristallographie"/>
+  <node id="0585" label="Kultur- und Geistesgeschichte"/>
+  <node id="1828" label="Kultur- und Medienpädagogik"/>
+  <node id="7800" label="Kunst allgemein"/>
+  <node id="7810" label="Kunstgeschichte"/>
+  <node id="7820" label="Kunstpädagogik"/>
+  <node id="7030" label="Kunststofftechnik"/>
+  <node id="7840" label="Kunsttherapie"/>
+  <node id="7805" label="Kunstwissenschaft/-pädagogik allgemein"/>
+  <node id="3560" label="Künstliche Intelligenz"/>
+  <node id="6315" label="Landschaftsarchitektur (ohne Gartenbau)"/>
+  <node id="6310" label="Landschaftsgestaltung/Naturschutz allgemein"/>
+  <node id="6330" label="Landschaftsplanung und Landschaftsentwicklung"/>
+  <node id="6320" label="Landschaftsökologie"/>
+  <node id="4240" label="Landschaftsökologie/Biogeographie"/>
+  <node id="2255" label="Lateinamerika-Studien"/>
+  <node id="0920" label="Lateinische Philologie"/>
+  <node id="3810" label="Lebensmittelchemie"/>
+  <node id="6250" label="Lebensmitteltechnologie/Getränketechnologie"/>
+  <node id="0426" label="Logik"/>
+  <node id="6935" label="Logistik"/>
+  <node id="4462" label="Logopädie/Sprachtherapie"/>
+  <node id="7246" label="Luft- und Raumfahrttechnik"/>
+  <node id="0550" label="Länder-, Landesgeschichte"/>
+  <node id="3770" label="Makromolekulare Chemie"/>
+  <node id="7920" label="Malerei"/>
+  <node id="6850" label="Markscheidewesen, Bergschadenkunde, Geophysik im Bergbau"/>
+  <node id="6900" label="Maschinenbau/Verfahrenstechnik allgemein"/>
+  <node id="3820" label="Materialchemie"/>
+  <node id="7700" label="Materialwissenschaft"/>
+  <node id="3400" label="Mathematik allgemein"/>
+  <node id="3470" label="Mathematik in Naturwissenschaften und Technik"/>
+  <node id="3300" label="Mathematik, Naturwissenschaften allgemein"/>
+  <node id="3480" label="Mathematische Stochastik, Finanz- und Versicherungsmathematik"/>
+  <node id="6750" label="Mechatronik"/>
+  <node id="6780" label="Medientechnik"/>
+  <node id="2985" label="Medienwirtschaft/Medienmanagement"/>
+  <node id="0130" label="Medienwissenschaft"/>
+  <node id="4735" label="Medizinische Balneologie und Klimatologie"/>
+  <node id="4530" label="Medizinische Biologie"/>
+  <node id="4736" label="Medizinische Biophysik und Elektronenmikroskopie"/>
+  <node id="4520" label="Medizinische Chemie"/>
+  <node id="4525" label="Medizinische Informatik (f. Mediziner)"/>
+  <node id="4510" label="Medizinische Physik"/>
+  <node id="4580" label="Medizinische Psychologie"/>
+  <node id="4585" label="Medizinische Soziologie"/>
+  <node id="4737" label="Medizinische Statistik und Dokumentation"/>
+  <node id="4590" label="Medizinische Terminologie"/>
+  <node id="7010" label="Medizintechnik"/>
+  <node id="6855" label="Metallurgie"/>
+  <node id="4160" label="Meteorologie"/>
+  <node id="1770" label="Methoden und Evaluation der Psychologie"/>
+  <node id="7160" label="Mikro- und Nanoelektronik"/>
+  <node id="4020" label="Mikrobiologie"/>
+  <node id="5640" label="Mikrobiologie, Virologie, Tierhygiene und Tierseuchenbekämpfung"/>
+  <node id="7140" label="Mikrosystemtechnik"/>
+  <node id="6255" label="Milch- und Molkereiwirtschaft"/>
+  <node id="4130" label="Mineralogie"/>
+  <node id="9900" label="Mit den Kliniken verbundene sowie klinikfremde Einrichtungen allgemein"/>
+  <node id="9600" label="Mit der Hochschule verbundene Einrichtungen allgemein"/>
+  <node id="0530" label="Mittelalterliche Geschichte"/>
+  <node id="8020" label="Modedesign"/>
+  <node id="8300" label="Musik allgemein"/>
+  <node id="8360" label="Musikpädagogik"/>
+  <node id="8270" label="Musiktheater"/>
+  <node id="8350" label="Musikwissenschaft, -geschichte"/>
+  <node id="8410" label="Musikwissenschaft/-pädagogik allgemein"/>
+  <node id="2265" label="Naher und Mittlerer Osten-Studien"/>
+  <node id="6350" label="Naturschutz"/>
+  <node id="3315" label="Naturwissenschaftliche Fachdidaktiken, soweit nicht aufteilbar"/>
+  <node id="7230" label="Nautik, Seefahrt"/>
+  <node id="7960" label="Neue Medien"/>
+  <node id="0540" label="Neuere und neueste Geschichte"/>
+  <node id="0220" label="Neues Testament (ev.)"/>
+  <node id="0940" label="Neugriechisch"/>
+  <node id="4080" label="Neurobiologie"/>
+  <node id="5130" label="Neurochirurgie"/>
+  <node id="5040" label="Neurologie"/>
+  <node id="1030" label="Niederlandistik"/>
+  <node id="2290" label="Nord- und Westeuropa-Studien"/>
+  <node id="2260" label="Nordamerika-Studien"/>
+  <node id="3780" label="Nuklearchemie"/>
+  <node id="3490" label="Numerische Mathematik und Mathematische Optimierung"/>
+  <node id="3840" label="Oberflächen- und Nanochemie"/>
+  <node id="3637" label="Optik, Quantenoptik, Physik der Atome, Moleküle und Plasmen"/>
+  <node id="7150" label="Optoelektronik"/>
+  <node id="8363" label="Orchestermusik"/>
+  <node id="3720" label="Organische Chemie"/>
+  <node id="5010" label="Orthopädie"/>
+  <node id="2285" label="Ost- und Südosteuropa-Studien"/>
+  <node id="2270" label="Ostasien-Studien"/>
+  <node id="4135" label="Ozeanographie"/>
+  <node id="4120" label="Paläontologie"/>
+  <node id="0950" label="Papyrologie"/>
+  <node id="4738" label="Parasitologie"/>
+  <node id="5650" label="Parasitologie, Tropenveterinärmedizin"/>
+  <node id="4920" label="Pathologie (klinisch-praktisch)"/>
+  <node id="4710" label="Pathologie, Neuropathologie"/>
+  <node id="8806" label="Personalvertretung einschl. Vertr. für Datenschutz, Behinderte, etc."/>
+  <node id="4140" label="Petrologie, -graphie"/>
+  <node id="6220" label="Pflanzenproduktion"/>
+  <node id="4457" label="Pflegewissenschaft/-management"/>
+  <node id="4930" label="Pharmakologie (klinisch-praktisch)"/>
+  <node id="4715" label="Pharmakologie und Toxikologie (medizinisch)"/>
+  <node id="3940" label="Pharmakologie und Toxikologie (Pharmazie)"/>
+  <node id="5660" label="Pharmakolologie, Toxikologie und Arzneiverordnungslehre"/>
+  <node id="3910" label="Pharmazeutische Biologie/Pharmakognosie"/>
+  <node id="3920" label="Pharmazeutische Chemie"/>
+  <node id="3930" label="Pharmazeutische Technologie"/>
+  <node id="3900" label="Pharmazie allgemein"/>
+  <node id="0400" label="Philosophie allgemein"/>
+  <node id="7620" label="Photogrammetrie"/>
+  <node id="3600" label="Physik, Astronomie allgemein"/>
+  <node id="3730" label="Physikalische Chemie"/>
+  <node id="5015" label="Physikalische Medizin"/>
+  <node id="7020" label="Physikalische Technik/Mechanische Verfahrenstechnik"/>
+  <node id="5520" label="Physiologie, Biochemie und Ernährungsphysiologie"/>
+  <node id="4540" label="Physiologie/Neurophysiologie"/>
+  <node id="4550" label="Physiologische Chemie (Biochemie)"/>
+  <node id="4463" label="Physiotherapie"/>
+  <node id="4210" label="Physische Geographie"/>
+  <node id="7930" label="Plastik, Bildhauerei"/>
+  <node id="2300" label="Politikwissenschaft allgemein"/>
+  <node id="2360" label="Politische Bildung"/>
+  <node id="2370" label="Politische Systeme"/>
+  <node id="2380" label="Politische Theorie und Ideengeschichte"/>
+  <node id="2810" label="Post- und Fernmeldewesen"/>
+  <node id="0250" label="Praktische Theologie und Religionspädagogik (ev.)"/>
+  <node id="0340" label="Praktische Theologie und Religionspädagogik (kath.)"/>
+  <node id="6907" label="Print- und Medientechnik"/>
+  <node id="2550" label="Privatrecht (ohne Arbeitsrecht)"/>
+  <node id="6940" label="Produktions- und Fertigungstechnologie"/>
+  <node id="8275" label="Produktionswirtschaft im Bereich Darst. Kunst, Theater, Film und Fernsehen"/>
+  <node id="2650" label="Prozessrecht"/>
+  <node id="4716" label="Präventiv- und Vorsorgemedizin"/>
+  <node id="5050" label="Psychiatrie"/>
+  <node id="1700" label="Psychologie allgemein"/>
+  <node id="5060" label="Psychosomatische Medizin und Psychotherapie"/>
+  <node id="1825" label="Pädagogische Freizeitforschung und Sportpädagogik"/>
+  <node id="1725" label="Pädagogische Psychologie"/>
+  <node id="4740" label="Radiologie (diagnostisch, ohne Betten)"/>
+  <node id="4595" label="Radiologie/Strahlentherapie/Nuklearmedizin"/>
+  <node id="5150" label="Radiologie/Strahlentherapie/Nuklearmedizin (mit Betten)"/>
+  <node id="7440" label="Raumordnung"/>
+  <node id="7400" label="Raumplanung allgemein"/>
+  <node id="9100" label="Rechenzentrum"/>
+  <node id="2520" label="Rechts- und Staatsphilosophie"/>
+  <node id="2510" label="Rechtsgeschichte"/>
+  <node id="2515" label="Rechtsinformatik"/>
+  <node id="4770" label="Rechtsmedizin"/>
+  <node id="2500" label="Rechtswissenschaften allgemein"/>
+  <node id="6790" label="Regenerative Energien"/>
+  <node id="8230" label="Regie"/>
+  <node id="7430" label="Regional- und Landesplanung"/>
+  <node id="5080" label="Rehabilitation"/>
+  <node id="0260" label="Religionsgeschichte und Missionswissenschaft (ev.)"/>
+  <node id="0410" label="Religionswissenschaft"/>
+  <node id="7830" label="Restaurierungskunde"/>
+  <node id="5140" label="Rheumatologie"/>
+  <node id="8364" label="Rhythmik"/>
+  <node id="1200" label="Romanistik allgemein"/>
+  <node id="8220" label="Schauspiel"/>
+  <node id="7220" label="Schiffbau/Schiffstechnik, Meerestechnik"/>
+  <node id="9860" label="Schulen für nichtakademische Ausbildungsgänge"/>
+  <node id="1827" label="Schulpädagogik"/>
+  <node id="1450" label="Semitistik, Arabistik"/>
+  <node id="7170" label="Sensorik und Messtechnik"/>
+  <node id="4775" label="Sexualmedizin"/>
+  <node id="6945" label="Sicherheitstechnik"/>
+  <node id="1530" label="Sinologie"/>
+  <node id="1020" label="Skandinavistik"/>
+  <node id="1310" label="Slawistik (Slaw. Philologie, ohne Sorabistik)"/>
+  <node id="1300" label="Slawistik, Baltistik, Finno-Ugristik allgemein"/>
+  <node id="3570" label="Softwaretechnologie"/>
+  <node id="1806" label="Sonderpädagogik"/>
+  <node id="7550" label="Sonstige Bereiche des Bauingenieurwesens"/>
+  <node id="8365" label="Sonstige Musikpraxis"/>
+  <node id="1240" label="Sonstige romanische Sprachen"/>
+  <node id="1400" label="Sonstige Sprach- und Kulturwissenschaften allgemein"/>
+  <node id="1347" label="Sorabistik"/>
+  <node id="2200" label="Sozial- und Verhaltenswissenschaften allgemein"/>
+  <node id="2410" label="Soziale Arbeit"/>
+  <node id="9400" label="Soziale Einrichtungen allgemein"/>
+  <node id="9800" label="Soziale Einrichtungen der Kliniken allgemein"/>
+  <node id="2345" label="Sozialkunde"/>
+  <node id="5110" label="Sozialmedizin (klinisch-praktisch)"/>
+  <node id="4776" label="Sozialmedizin (klinisch-theoretisch)"/>
+  <node id="1730" label="Sozialpsychologie"/>
+  <node id="2420" label="Sozialpädagogik"/>
+  <node id="2680" label="Sozialrecht"/>
+  <node id="2400" label="Sozialwesen allgemein"/>
+  <node id="2320" label="Sozialwissenschaften/Soziologie allgemein"/>
+  <node id="2365" label="Soziologische Theorie"/>
+  <node id="2375" label="Spezielle Soziologien"/>
+  <node id="2925" label="Sportmanagement/Sportökonomie"/>
+  <node id="2010" label="Sportmedizin"/>
+  <node id="4935" label="Sportmedizin (klinisch-praktisch)"/>
+  <node id="2020" label="Sportpädagogik/Sportpsychologie"/>
+  <node id="9540" label="Sportstätten"/>
+  <node id="2000" label="Sportwissenschaften allgemein"/>
+  <node id="1440" label="Sprachen und Kulturen des christlichen Orients"/>
+  <node id="1445" label="Sprachen und Kulturen des Nahen und Mittleren Ostens"/>
+  <node id="1560" label="Sprachen und Kulturen Südostasiens und Ozeaniens"/>
+  <node id="1520" label="Sprachen und Kulturen Zentralasiens"/>
+  <node id="9210" label="Sprachenzentrum"/>
+  <node id="7420" label="Stadtplanung (Ortsplanung)"/>
+  <node id="3330" label="Statistik"/>
+  <node id="3660" label="Statistische und Biologische Physik, nichtlineare Dynamik und weiche Materie"/>
+  <node id="2590" label="Steuerrecht"/>
+  <node id="6970" label="Steuerungs-, Mess- und Regelungstechnik"/>
+  <node id="7155" label="Steuerungs-, Mess- und Regelungstechnik (elektrisch)"/>
+  <node id="2570" label="Strafrecht"/>
+  <node id="8820" label="Studentische Selbstverwaltung"/>
+  <node id="9510" label="Studienkolleg"/>
+  <node id="7395" label="Städtebau und Siedlungswesen"/>
+  <node id="0240" label="Systematische Theologie (ev.)"/>
+  <node id="0330" label="Systematische Theologie (kath.)"/>
+  <node id="2275" label="Südasien-Studien"/>
+  <node id="2280" label="Südostasien und Ozeanien-Studien"/>
+  <node id="8225" label="Tanzwissenschaft"/>
+  <node id="3740" label="Technische Chemie"/>
+  <node id="6975" label="Technische/angewandte Optik"/>
+  <node id="6720" label="Technisches Gesundheitswesen"/>
+  <node id="8040" label="Textildesign"/>
+  <node id="6976" label="Textiltechnik"/>
+  <node id="8240" label="Theaterwissenschaft"/>
+  <node id="3790" label="Theoretische Chemie"/>
+  <node id="3510" label="Theoretische Informatik"/>
+  <node id="6995" label="Thermische Verfahrenstechnik"/>
+  <node id="5620" label="Tierernährung, allgemeine Landwirtschaftslehre, Verhaltenskunde"/>
+  <node id="5810" label="Tierklinik allgemein"/>
+  <node id="6230" label="Tierproduktion"/>
+  <node id="5530" label="Tierschutz, Mediz. Terminologie, Geschichte der Veterinärmedizin"/>
+  <node id="5610" label="Tierzucht, vet.-med. Genetik und Zuchthygiene"/>
+  <node id="2815" label="Tourismuswirtschaft"/>
+  <node id="6950" label="Transport- und Verteiltechnik"/>
+  <node id="4936" label="Tumorzentrum und Transfusionsmedizin"/>
+  <node id="1510" label="Turkologie"/>
+  <node id="3850" label="Umwelt- und Atmosphärenchemie"/>
+  <node id="7460" label="Umweltschutz"/>
+  <node id="6985" label="Umwelttechnik (einschl. Recycling)"/>
+  <node id="2905" label="Umweltwirtschaft/Umweltökonomie"/>
+  <node id="0510" label="Ur- und Frühgeschichte"/>
+  <node id="4970" label="Urologie"/>
+  <node id="7530" label="Verkehrsbau, -wesen"/>
+  <node id="7215" label="Verkehrsingenieurwesen"/>
+  <node id="7200" label="Verkehrstechnik, Nautik allgemein"/>
+  <node id="2830" label="Verkehrswesen"/>
+  <node id="2971" label="Verkehrswirtschaft"/>
+  <node id="7600" label="Vermessungswesen allgemein"/>
+  <node id="2690" label="Versicherungsrecht"/>
+  <node id="2835" label="Versicherungswesen"/>
+  <node id="6965" label="Versorgungs-/Entsorgungstechnik"/>
+  <node id="5680" label="Versuchstierkunde und Fischkunde einschl. Krankheiten"/>
+  <node id="2700" label="Verwaltungswissenschaft allgemein"/>
+  <node id="5400" label="Veterinärmedizin allgemein"/>
+  <node id="5820" label="Veterinärmedizinische Chirurgie"/>
+  <node id="5830" label="Veterinärmedizinische Geburtshilfe und Gynäkologie"/>
+  <node id="5630" label="Veterinärmedizinische Pathologie"/>
+  <node id="5535" label="Veterinärmedizinische Zoologie und Hydrobiologie"/>
+  <node id="4790" label="Virologie"/>
+  <node id="8030" label="Visuelle Kommunikation"/>
+  <node id="1590" label="Volkskunde"/>
+  <node id="2930" label="Volkswirtschaftslehre"/>
+  <node id="4500" label="Vorklinische Humanmedizin allgemein"/>
+  <node id="5500" label="Vorklinische Veterinärmedizin allgemein"/>
+  <node id="4610" label="Vorklinische Zahnheilkunde"/>
+  <node id="7520" label="Wasserbau, -wesen"/>
+  <node id="6235" label="Weinbau- und Kellerwirtschaft"/>
+  <node id="9290" label="Weiterbildungszentrum"/>
+  <node id="8035" label="Werkerziehung (Gestaltung)"/>
+  <node id="6990" label="Werkstofftechnik"/>
+  <node id="4215" label="Wirtschafts- und Sozialgeographie"/>
+  <node id="0560" label="Wirtschafts- und Sozialgeschichte"/>
+  <node id="6240" label="Wirtschafts- und Sozialwissenschaften des Landbaus"/>
+  <node id="1125" label="Wirtschaftsenglisch, Englische Fachsprachen"/>
+  <node id="2990" label="Wirtschaftsinformatik (für Informatiker)"/>
+  <node id="2920" label="Wirtschaftsinformatik (für Wirtschaftsingenieure)"/>
+  <node id="2935" label="Wirtschaftsinformatik (für Wirtschaftswissenschaften)"/>
+  <node id="6755" label="Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt"/>
+  <node id="3100" label="Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt"/>
+  <node id="2936" label="Wirtschaftsmathematik"/>
+  <node id="2910" label="Wirtschaftspädagogik"/>
+  <node id="2640" label="Wirtschaftsrecht"/>
+  <node id="2915" label="Wirtschaftsstatistik"/>
+  <node id="2900" label="Wirtschaftswissenschaften allgemein"/>
+  <node id="9260" label="Wissenschaftliche/Künstlerische Werkstätten"/>
+  <node id="0430" label="Wissenschaftsforschung/-lehre"/>
+  <node id="0595" label="Wissenschaftsgeschichte/Technikgeschichte"/>
+  <node id="5230" label="Zahn-, Mund- und Kieferchirurgie"/>
+  <node id="5210" label="Zahnerhaltung und Parodontologie"/>
+  <node id="5200" label="Zahnmedizin allgemein"/>
+  <node id="5220" label="Zahnärztliche Prothetik"/>
+  <node id="9300" label="Zentrale Betriebs- und Versorgungseinrichtungen allgemein"/>
+  <node id="8830" label="Zentrale Studienberatung"/>
+  <node id="9720" label="Zentrale wissenschaftliche Einrichtungen (einschl. Bibliothek)"/>
+  <node id="9200" label="Zentrale wissenschaftliche Einrichtungen allgemein"/>
+  <node id="9240" label="Zentrale wissenschaftliche Labore und Anlagen"/>
+  <node id="4050" label="Zoologie"/>
+  <node id="1410" label="Ägyptologie"/>
+  <node id="2560" label="Öffentliches Recht"/>
+  <node id="4090" label="Ökologie"/>
+  <node id="2940" label="Ökonometrie"/>
+  <node id="9500" label="Übrige Ausbildungseinrichtungen allgemein"/>
+</node>

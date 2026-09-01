@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Finanzierungsquelle des Personals (Destatis)
+  KDSF ID: Klassif-L-7 (KDSF-B-1-8)
+  Standard: Statistisches Bundesamt (StBA), SV Personalstatistik
+  Total Entries: 22
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_fundingtype" label="KDSF Art der Finanzierung">
+  <is-open value="false"/>
+  <node id="FF-1" label="Grundmittel / Institutionelle Mittel">
+    <node id="01" label="Aus dem Stellenplan"/>
+    <node id="02" label="Sonstige Haushaltsmittel"/>
+  </node>
+  <node id="FF-2" label="Drittmittel">
+    <node id="03" label="Drittmittel Bund"/>
+    <node id="04" label="Drittmittel Land"/>
+    <node id="05" label="Drittmittel DFG"/>
+    <node id="06" label="Drittmittel EU und sonstige internationale Organisationen"/>
+    <node id="07" label="Drittmittel sonstige öffentliche Mittel"/>
+    <node id="08" label="Drittmittel von Stiftungen"/>
+    <node id="09" label="Drittmittel sonstige private Mittel"/>
+    <node id="11" label="Drittmittel ABM"/>
+    <node id="13" label="Drittmittel Exzellenzinitiative/Exzellenzstrategie: Exzellenzcluster und Universitätspauschale"/>
+  </node>
+  <node id="FF-3" label="Sondermittel">
+    <node id="15" label="Grundfinanzierung Bund (z.B. Exzellenzstrategie: Exzellenzuniversitäten, ohne Hochschulpakt)"/>
+  </node>
+  <node id="FF-4" label="Sonstige Mittel">
+    <node id="10" label="Nicht unmittelbar aus Hochschulmitteln finanziert"/>
+    <node id="12" label="Studienbeiträge/-gebühren"/>
+    <node id="14" label="Hochschulpakt (Programm zur Aufnahme zusätzlicher Studienanfänger)/Zukunftsvertrag Studium und Lehre stärken (ZSL)"/>
+    <node id="99" label="Ohne Angabe"/>
+  </node>
+  <node id="FF-5" label="Mischfinanzierung"/>
+  <node id="FF-6" label="Externe Finanzierung"/>
+</node>

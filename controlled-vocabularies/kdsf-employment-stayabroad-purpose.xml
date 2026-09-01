@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Zweck des Auslandsaufenthalts
+  KDSF ID: Klassif-L-59 (KDSF-B-1-20)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_stayabroad_purpose" label="KDSF Zweck des Auslandsaufenthalts">
+  <is-open value="false"/>
+  <node id="Fort- oder Weiterbildungszweck" label="Fort- oder Weiterbildungszweck"/>
+  <node id="Lehr- oder Unterrichtszweck" label="Lehr- oder Unterrichtszweck"/>
+  <node id="Sonstiges" label="Sonstiges"/>
+</node>

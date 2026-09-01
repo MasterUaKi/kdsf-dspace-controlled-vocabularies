@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Dienstverhältnis
+  KDSF ID: Klassif-L-4 (KDSF-B-1-4)
+  Standard: Statistisches Bundesamt (StBA), SV Personalstatistik
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_contract_basis" label="KDSF Vertragsgrundlagen">
+  <is-open value="false"/>
+  <node id="Nutzungs_oder_Lizenzvertrag" label="Nutzungs- oder Lizenzvertrag"/>
+  <node id="Gesellschaftsrechtlicher_Beteiligungsvertrag" label="Gesellschaftsrechtlicher Beteiligungsvertrag"/>
+  <node id="Sonstiger_Vertrag" label="Sonstiger Vertrag"/>
+</node>

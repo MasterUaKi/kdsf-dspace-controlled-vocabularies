@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Art der Beurlaubung / Unterbrechung
+  KDSF ID: Klassif-L-27 (KDSF-B-1-9)
+  Standard: Statistisches Bundesamt (StBA)
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_suspensiontype" label="KDSF Ruhendes Beschäftigungsverhältnis">
+  <is-open value="false"/>
+  <node id="RA-1" label="Beurlaubung ohne Bezüge"/>
+  <node id="RA-2" label="Elternzeit (ohne Teilzeitbeschäftigung)"/>
+  <node id="RA-3" label="Sonstiges"/>
+</node>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Internationale Promotion / Cotutelle
+  KDSF ID: Klassif-L-52 (KDSF-B-2-11)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 4
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_promotion_cotutelle" label="KDSF Internationale Promotion">
+  <is-open value="false"/>
+  <node id="IP-1" label="Cotutelle de thèse (Gemeinsame Promotion mit ausländischer Hochschule)"/>
+  <node id="IP-2" label="Promotion im Rahmen eines internationalen Promotionsprogramms"/>
+  <node id="IP-3" label="Sonstige internationale Promotion"/>
+  <node id="IP-4" label="Keine internationale Promotion"/>
+</node>

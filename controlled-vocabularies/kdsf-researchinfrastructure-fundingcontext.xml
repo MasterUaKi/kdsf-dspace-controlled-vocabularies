@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Förderkontext der Infrastruktur
+  KDSF ID: Klassif-L-23 (KDSF-B-13-5)
+  Standard: ESFRI / Nationale Roadmap / KDSF 2.1
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_researchinfrastructure_fundingcontext" label="KDSF Förderkontexte der Forschungsinfrastruktur">
+  <is-open value="false"/>
+  <node id="ESFRI_Projekt_Landmark" label="ESFRI-Projekt/Landmark"/>
+  <node id="Nationale_Roadmap_FIS_Projekt" label="Nationale-Roadmap-FIS-Projekt"/>
+  <node id="Sonstige_grosse_Infrastruktur" label="Sonstige große Infrastruktur"/>
+</node>

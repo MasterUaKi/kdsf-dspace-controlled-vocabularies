@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Darstellungsform der Publikation
+  KDSF ID: Klassif-L-11 (KDSF-B-6-11)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_publication_representationformat" label="KDSF Darstellungsform">
+  <is-open value="false"/>
+  <node id="DF-1" label="Text"/>
+  <node id="DF-2" label="Bild"/>
+  <node id="DF-3" label="Audio"/>
+  <node id="DF-4" label="Bewegte Bilder"/>
+  <node id="DF-5" label="Sonstiges"/>
+</node>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Kennzeichner für Forschungsinfrastrukturen
+  KDSF ID: Klassif-L-47 (KDSF-B-13-1-B)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 7
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_researchinfrastructure_identifiertype" label="KDSF Art des Forschungsinfrastruktur-Kennzeichners">
+  <is-open value="false"/>
+  <node id="ID-13-1" label="RIsources"/>
+  <node id="ID-13-2" label="PIDINST"/>
+  <node id="ID-13-3" label="OpenIRIS"/>
+  <node id="ID-13-4" label="Übersichtsartikel im Journal of large-scale research facilities (JLSRF)"/>
+  <node id="ID-13-5" label="Geräte-Seriennummer"/>
+  <node id="ID-13-6" label="Inventarnummer"/>
+  <node id="ID-13-7" label="Sonstiges"/>
+</node>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Führungsebene
+  KDSF ID: Klassif-L-22 (KDSF-B-1-11)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_managementlevel" label="KDSF Führungsebene (GWK)">
+  <is-open value="false"/>
+  <node id="Institutsleitung" label="Institutsleitung"/>
+  <node id="Führungsebene 1 (soweit nicht Institutsleitung)" label="Führungsebene 1 (soweit nicht Institutsleitung)"/>
+  <node id="Führungsebene 2 (soweit nicht Institutsleitung)" label="Führungsebene 2 (soweit nicht Institutsleitung)"/>
+  <node id="Führungsebene 3 (soweit nicht Institutsleitung)" label="Führungsebene 3 (soweit nicht Institutsleitung)"/>
+  <node id="Leitung selbständiger Forschungs-/Nachwuchsgruppen, Forschungsbereiche (soweit nicht Teil der 1.-3. Führungsebene)" label="Leitung selbständiger Forschungs-/Nachwuchsgruppen, Forschungsbereiche (soweit nicht Teil der 1.-3. Führungsebene)"/>
+</node>

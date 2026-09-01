@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Position der Person im Projekt
+  KDSF ID: Klassif-L-38 (KDSF-B-5-6)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 9
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_person_projectposition" label="KDSF Position im Projekt">
+  <is-open value="false"/>
+  <node id="PP-1" label="Antragsteller/-in"/>
+  <node id="PP-2" label="Sprecher/-in"/>
+  <node id="PP-3" label="Projektleiter/-in"/>
+  <node id="PP-4" label="Projektkoordinator/-in"/>
+  <node id="PP-5" label="Wiss. Mitarbeiter/-in"/>
+  <node id="PP-6" label="Wiss. Hilfskraft"/>
+  <node id="PP-7" label="Studentische Hilfskraft"/>
+  <node id="PP-8" label="Gastwissenschaftler/-in"/>
+  <node id="PP-9" label="Sonstiges"/>
+</node>

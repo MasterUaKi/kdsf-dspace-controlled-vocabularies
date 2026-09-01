@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Art der Nutzung (Infrastruktur)
+  KDSF ID: Klassif-L-69 (KDSF-B-13-13)
+  Standard: Transferbarometer K2 / KDSF 2.1
+  Total Entries: 6
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_infrastructure_usage_type" label="KDSF Art der Nutzung (Infrastruktur)">
+  <is-open value="false"/>
+  <node id="Strahlzeit" label="Strahlzeit"/>
+  <node id="Ausleihvorgänge" label="Ausleihvorgänge"/>
+  <node id="Dauer der Nutzung (in Std.)" label="Dauer der Nutzung (in Std.)"/>
+  <node id="Downloads" label="Downloads"/>
+  <node id="Zugriffe" label="Zugriffe"/>
+  <node id="Sonstige" label="Sonstige"/>
+</node>

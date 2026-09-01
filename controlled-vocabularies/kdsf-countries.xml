@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Ländercodes (ISO 3166-1)
+  KDSF ID: Klassif-L-56 (KDSF-Allgemein)
+  Standard: ISO 3166-1 alpha-2 / Destatis
+  Total Entries: 254
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_countries" label="KDSF Liste Länder (ISO 3166)">
+  <is-open value="false"/>
+  <node id="AF" label="Afghanistan"/>
+  <node id="EG" label="Ägypten"/>
+  <node id="AX" label="Åland"/>
+  <node id="AL" label="Albanien"/>
+  <node id="DZ" label="Algerien"/>
+  <node id="AS" label="Amerikanisch-Samoa"/>
+  <node id="VI" label="Amerikanische Jungferninseln"/>
+  <node id="AD" label="Andorra"/>
+  <node id="AO" label="Angola"/>
+  <node id="AI" label="Anguilla"/>
+  <node id="AQ" label="Antarktis"/>
+  <node id="AG" label="Antigua und Barbuda"/>
+  <node id="GQ" label="Äquatorialguinea"/>
+  <node id="AR" label="Argentinien"/>
+  <node id="AM" label="Armenien"/>
+  <node id="AW" label="Aruba"/>
+  <node id="AZ" label="Aserbaidschan"/>
+  <node id="ET" label="Äthiopien"/>
+  <node id="AU" label="Australien"/>
+  <node id="BS" label="Bahamas"/>
+  <node id="BH" label="Bahrain"/>
+  <node id="BD" label="Bangladesch"/>
+  <node id="BB" label="Barbados"/>
+  <node id="BY" label="Belarus"/>
+  <node id="BE" label="Belgien"/>
+  <node id="BZ" label="Belize"/>
+  <node id="BJ" label="Benin"/>
+  <node id="BM" label="Bermuda"/>
+  <node id="BT" label="Bhutan"/>
+  <node id="BO" label="Bolivien"/>
+  <node id="BQ" label="Bonaire, Saba, Sint Eustatius"/>
+  <node id="BA" label="Bosnien und Herzegowina"/>
+  <node id="BW" label="Botswana"/>
+  <node id="BV" label="Bouvetinsel"/>
+  <node id="BR" label="Brasilien"/>
+  <node id="VG" label="Britische Jungferninseln"/>
+  <node id="IO" label="Britisches Territorium im Indischen Ozean"/>
+  <node id="BN" label="Brunei"/>
+  <node id="BG" label="Bulgarien"/>
+  <node id="BF" label="Burkina Faso"/>
+  <node id="BI" label="Burundi"/>
+  <node id="CL" label="Chile"/>
+  <node id="CN" label="Volksrepublik China"/>
+  <node id="CK" label="Cookinseln"/>
+  <node id="CR" label="Costa Rica"/>
+  <node id="CW" label="Curaçao"/>
+  <node id="DK" label="Dänemark"/>
+  <node id="DE" label="Deutschland"/>
+  <node id="DM" label="Dominica"/>
+  <node id="DO" label="Dominikanische Republik"/>
+  <node id="DJ" label="Dschibuti"/>
+  <node id="EC" label="Ecuador"/>
+  <node id="CI" label="Elfenbeinküste (Côte d’Ivoire)"/>
+  <node id="SV" label="El Salvador"/>
+  <node id="ER" label="Eritrea"/>
+  <node id="EE" label="Estland"/>
+  <node id="SZ" label="Eswatini"/>
+  <node id="EU" label="Europäische Union"/>
+  <node id="FK" label="Falklandinseln"/>
+  <node id="FO" label="Färöer"/>
+  <node id="FJ" label="Fidschi"/>
+  <node id="FI" label="Finnland"/>
+  <node id="FR" label="Frankreich"/>
+  <node id="GF" label="Französisch-Guayana"/>
+  <node id="PF" label="Französisch-Polynesien"/>
+  <node id="TF" label="Französische Süd- und Antarktisgebiete"/>
+  <node id="GA" label="Gabun"/>
+  <node id="GM" label="Gambia"/>
+  <node id="GE" label="Georgien"/>
+  <node id="GH" label="Ghana"/>
+  <node id="GI" label="Gibraltar"/>
+  <node id="GD" label="Grenada"/>
+  <node id="GR" label="Griechenland"/>
+  <node id="GL" label="Grönland"/>
+  <node id="GP" label="Guadeloupe"/>
+  <node id="GU" label="Guam"/>
+  <node id="GT" label="Guatemala"/>
+  <node id="GG" label="Guernsey (Kanalinsel)"/>
+  <node id="GN" label="Guinea"/>
+  <node id="GW" label="Guinea-Bissau"/>
+  <node id="GY" label="Guyana"/>
+  <node id="HT" label="Haiti"/>
+  <node id="HM" label="Heard und McDonaldinseln"/>
+  <node id="HN" label="Honduras"/>
+  <node id="HK" label="Hongkong"/>
+  <node id="IN" label="Indien"/>
+  <node id="ID" label="Indonesien"/>
+  <node id="IM" label="Isle of Man"/>
+  <node id="IQ" label="Irak"/>
+  <node id="IR" label="Iran"/>
+  <node id="IE" label="Irland"/>
+  <node id="IS" label="Island"/>
+  <node id="IL" label="Israel"/>
+  <node id="IT" label="Italien"/>
+  <node id="JM" label="Jamaika"/>
+  <node id="JP" label="Japan"/>
+  <node id="YE" label="Jemen"/>
+  <node id="JE" label="Jersey (Kanalinsel)"/>
+  <node id="JO" label="Jordanien"/>
+  <node id="KY" label="Cayman Islands (Kaimaninseln)"/>
+  <node id="KH" label="Kambodscha"/>
+  <node id="CM" label="Kamerun"/>
+  <node id="CA" label="Kanada"/>
+  <node id="CV" label="Kap Verde (Cabo Verde)"/>
+  <node id="KZ" label="Kasachstan"/>
+  <node id="QA" label="Katar"/>
+  <node id="KE" label="Kenia"/>
+  <node id="KG" label="Kirgisistan"/>
+  <node id="KI" label="Kiribati"/>
+  <node id="CC" label="Kokosinseln"/>
+  <node id="CO" label="Kolumbien"/>
+  <node id="KM" label="Komoren"/>
+  <node id="CD" label="Demokratische Republik Kongo"/>
+  <node id="CG" label="Republik Kongo"/>
+  <node id="KP" label="Nordkorea"/>
+  <node id="KR" label="Südkorea"/>
+  <node id="HR" label="Kroatien"/>
+  <node id="CU" label="Kuba"/>
+  <node id="KW" label="Kuwait"/>
+  <node id="LA" label="Laos"/>
+  <node id="LS" label="Lesotho"/>
+  <node id="LV" label="Lettland"/>
+  <node id="LB" label="Libanon"/>
+  <node id="LR" label="Liberia"/>
+  <node id="LY" label="Libyen"/>
+  <node id="LI" label="Liechtenstein"/>
+  <node id="LT" label="Litauen"/>
+  <node id="LU" label="Luxemburg"/>
+  <node id="MO" label="Macau"/>
+  <node id="MG" label="Madagaskar"/>
+  <node id="MW" label="Malawi"/>
+  <node id="MY" label="Malaysia"/>
+  <node id="MV" label="Malediven"/>
+  <node id="ML" label="Mali"/>
+  <node id="MT" label="Malta"/>
+  <node id="MA" label="Marokko"/>
+  <node id="MH" label="Marshallinseln"/>
+  <node id="MQ" label="Martinique"/>
+  <node id="MR" label="Mauretanien"/>
+  <node id="MU" label="Mauritius"/>
+  <node id="YT" label="Mayotte"/>
+  <node id="MX" label="Mexiko"/>
+  <node id="FM" label="Föderierte Staaten von Mikronesien"/>
+  <node id="MD" label="Moldau"/>
+  <node id="MC" label="Monaco"/>
+  <node id="MN" label="Mongolei"/>
+  <node id="ME" label="Montenegro"/>
+  <node id="MS" label="Montserrat"/>
+  <node id="MZ" label="Mosambik"/>
+  <node id="MM" label="Myanmar"/>
+  <node id="NA" label="Namibia"/>
+  <node id="NR" label="Nauru"/>
+  <node id="NP" label="Nepal"/>
+  <node id="NC" label="Neukaledonien"/>
+  <node id="NZ" label="Neuseeland"/>
+  <node id="NI" label="Nicaragua"/>
+  <node id="NL" label="Niederlande"/>
+  <node id="NE" label="Niger"/>
+  <node id="NG" label="Nigeria"/>
+  <node id="NU" label="Niue"/>
+  <node id="MP" label="Nördliche Marianen"/>
+  <node id="MK" label="Nordmazedonien"/>
+  <node id="NF" label="Norfolkinsel"/>
+  <node id="NO" label="Norwegen"/>
+  <node id="OM" label="Oman"/>
+  <node id="AT" label="Österreich"/>
+  <node id="TL" label="Osttimor (Timor-Leste)"/>
+  <node id="PK" label="Pakistan"/>
+  <node id="PS" label="Palästina"/>
+  <node id="PW" label="Palau"/>
+  <node id="PA" label="Panama"/>
+  <node id="PG" label="Papua-Neuguinea"/>
+  <node id="PY" label="Paraguay"/>
+  <node id="PE" label="Peru"/>
+  <node id="PH" label="Philippinen"/>
+  <node id="PN" label="Pitcairninseln"/>
+  <node id="PL" label="Polen"/>
+  <node id="PT" label="Portugal"/>
+  <node id="PR" label="Puerto Rico"/>
+  <node id="RE" label="Réunion"/>
+  <node id="RW" label="Ruanda"/>
+  <node id="RO" label="Rumänien"/>
+  <node id="RU" label="Russland"/>
+  <node id="SB" label="Salomonen"/>
+  <node id="BL" label="Saint-Barthélemy"/>
+  <node id="MF" label="Saint-Martin (französischer Teil)"/>
+  <node id="ZM" label="Sambia"/>
+  <node id="WS" label="Samoa"/>
+  <node id="SM" label="San Marino"/>
+  <node id="ST" label="São Tomé und Príncipe"/>
+  <node id="SA" label="Saudi-Arabien"/>
+  <node id="SE" label="Schweden"/>
+  <node id="CH" label="Schweiz (Confoederatio Helvetica)"/>
+  <node id="SN" label="Senegal"/>
+  <node id="RS" label="Serbien"/>
+  <node id="SC" label="Seychellen"/>
+  <node id="SL" label="Sierra Leone"/>
+  <node id="ZW" label="Simbabwe"/>
+  <node id="SG" label="Singapur"/>
+  <node id="SX" label="Sint Maarten"/>
+  <node id="SK" label="Slowakei"/>
+  <node id="SI" label="Slowenien"/>
+  <node id="SO" label="Somalia"/>
+  <node id="ES" label="Spanien"/>
+  <node id="LK" label="Sri Lanka"/>
+  <node id="SH" label="St. Helena, Ascension und Tristan da Cunha"/>
+  <node id="KN" label="St. Kitts und Nevis"/>
+  <node id="LC" label="St. Lucia"/>
+  <node id="PM" label="Saint-Pierre und Miquelon"/>
+  <node id="VC" label="St. Vincent und die Grenadinen"/>
+  <node id="ZA" label="Südafrika"/>
+  <node id="SD" label="Sudan"/>
+  <node id="GS" label="Südgeorgien und die Südlichen Sandwichinseln"/>
+  <node id="SS" label="Südsudan"/>
+  <node id="SR" label="Suriname"/>
+  <node id="SJ" label="Spitzbergen und Jan Mayen"/>
+  <node id="SY" label="Syrien"/>
+  <node id="TJ" label="Tadschikistan"/>
+  <node id="TW" label="Taiwan"/>
+  <node id="TZ" label="Tansania"/>
+  <node id="TH" label="Thailand"/>
+  <node id="TG" label="Togo"/>
+  <node id="TK" label="Tokelau"/>
+  <node id="TO" label="Tonga"/>
+  <node id="TT" label="Trinidad und Tobago"/>
+  <node id="TD" label="Tschad"/>
+  <node id="CZ" label="Tschechien"/>
+  <node id="TN" label="Tunesien"/>
+  <node id="TR" label="Türkei"/>
+  <node id="TM" label="Turkmenistan"/>
+  <node id="TC" label="Turks- und Caicosinseln"/>
+  <node id="TV" label="Tuvalu"/>
+  <node id="UG" label="Uganda"/>
+  <node id="UA" label="Ukraine"/>
+  <node id="HU" label="Ungarn"/>
+  <node id="UM" label="United States Minor Outlying Islands"/>
+  <node id="UY" label="Uruguay"/>
+  <node id="UZ" label="Usbekistan"/>
+  <node id="VU" label="Vanuatu"/>
+  <node id="VA" label="Vatikanstadt"/>
+  <node id="VE" label="Venezuela"/>
+  <node id="AE" label="Vereinigte Arabische Emirate"/>
+  <node id="US" label="Vereinigte Staaten"/>
+  <node id="GB" label="Vereinigtes Königreich"/>
+  <node id="VN" label="Vietnam"/>
+  <node id="WF" label="Wallis und Futuna"/>
+  <node id="CX" label="Weihnachtsinsel"/>
+  <node id="EH" label="Westsahara"/>
+  <node id="CF" label="Zentralafrikanische Republik"/>
+  <node id="CY" label="Zypern"/>
+  <node id="XK" label="Kosovo"/>
+  <node id="997" label="Staatenlos"/>
+  <node id="998" label="Ungeklärt"/>
+  <node id="999" label="Ohne Angabe"/>
+</node>

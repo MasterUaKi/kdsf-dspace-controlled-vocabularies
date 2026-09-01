@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Organisationsart im Transferkontext
+  KDSF ID: Klassif-L-65 (KDSF-B-15-35)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_organisation_networktype" label="KDSF Organisationsart im Transferkontext">
+  <is-open value="false"/>
+  <node id="ON-1" label="Hochschule"/>
+  <node id="ON-2" label="Sonstige Forschungseinrichtung"/>
+  <node id="ON-3" label="Privatwirtschaftliches Unternehmen"/>
+  <node id="ON-4" label="Öffentliche Einrichtung"/>
+  <node id="ON-5" label="Sonstige nicht-wissenschaftliche Organisation"/>
+</node>

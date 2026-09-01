@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Publikationstyp (Erweitert / COAR)
+  KDSF ID: Klassif-L-26 (KDSF-B-6-3)
+  Standard: COAR Resource Types / KDSF 2.1
+  Total Entries: 21
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_publication_type" label="KDSF Publikationstyp">
+  <is-open value="false"/>
+  <node id="PT-1" label="Buch">
+    <node id="PT-1-1" label="Monographie"/>
+    <node id="PT-1-2" label="Sammelband"/>
+    <node id="PT-1-3" label="Konferenzband"/>
+  </node>
+  <node id="PT-2" label="Artikel">
+    <node id="PT-2-1" label="Journalartikel"/>
+    <node id="PT-2-2" label="Preprint"/>
+    <node id="PT-2-3" label="Sammelbandbeitrag"/>
+  </node>
+  <node id="PT-3" label="Konferenzbeitrag">
+    <node id="PT-3-1" label="Konferenzpaper"/>
+    <node id="PT-3-2" label="Konferenzposter"/>
+    <node id="PT-3-3" label="Wissenschaftliche Vortragsfolien"/>
+    <node id="PT-3-4" label="Meeting Abstract"/>
+  </node>
+  <node id="PT-4" label="Forschungsdaten"/>
+  <node id="PT-5" label="Software"/>
+  <node id="PT-6" label="Sonderheft einer Zeitschrift"/>
+  <node id="PT-7" label="Arbeitspapier/Forschungsbericht"/>
+  <node id="PT-8" label="Beitrag in nicht-wissenschaftlichen Medien"/>
+  <node id="PT-9" label="Beitrag in wissenschaftlichen Blogs"/>
+  <node id="PT-10" label="Integrierende Ressource"/>
+  <node id="PT-11" label="Sonstiger Publikationstyp"/>
+</node>

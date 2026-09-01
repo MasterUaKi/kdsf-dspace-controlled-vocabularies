@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Kennzeichner für Preise
+  KDSF ID: Klassif-L-51 (KDSF-B-17-1-B)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 4
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_prize_identifiertype" label="KDSF Art des Preiskennzeichners">
+  <is-open value="false"/>
+  <node id="ID-12-1" label="Interner Identifier"/>
+  <node id="ID-12-2" label="ORAP-PRIZE-ID"/>
+  <node id="ID-12-3" label="WikidataID"/>
+  <node id="ID-12-4" label="Sonstiges"/>
+</node>

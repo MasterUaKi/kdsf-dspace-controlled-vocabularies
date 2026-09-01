@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Kennzeichner für Organisationseinheiten
+  KDSF ID: Klassif-L-49 (KDSF-B-14-1-B)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_orgunit_identifiertype" label="KDSF Art des Kennzeichners der Organisationseinheit">
+  <is-open value="false"/>
+  <node id="ID-14-1" label="Interner Identifier"/>
+  <node id="ID-14-2" label="DFG-Inst-ID (GERiT ID - German Research Institutions)"/>
+  <node id="ID-14-3" label="Sonstiges"/>
+</node>

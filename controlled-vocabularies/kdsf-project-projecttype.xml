@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Art des Projekts / Fördermittelart
+  KDSF ID: Klassif-L-17 (KDSF-B-5-3)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_project_projecttype" label="KDSF Projektart">
+  <is-open value="false"/>
+  <node id="AP-1" label="Zuwendungsprojekt"/>
+  <node id="AP-2" label="Auftragsprojekt">
+    <node id="AP-2-1" label="Auftragsforschung"/>
+    <node id="AP-2-2" label="Dienstleistung"/>
+  </node>
+  <node id="AP-3" label="Sonstiges Projekt"/>
+</node>

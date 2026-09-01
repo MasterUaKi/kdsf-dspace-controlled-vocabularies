@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Förderprogramme
+  KDSF ID: Klassif-L-18 (KDSF-B-5-8)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 36
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_funding_programme" label="KDSF Förderprogramme">
+  <is-open value="false"/>
+  <node id="EU" label="Europäische Union (EU) - Horizont 2020 / Horizont Europa">
+    <node id="EU_ERC_START" label="ERC Starting Grant">
+      <node id="ERC_START_H2020" label="ERC Starting Grant (Horizont 2020)"/>
+      <node id="ERC_START_HEU" label="ERC Starting Grant (Horizont Europa)"/>
+    </node>
+    <node id="EU_ERC_ADV" label="ERC Advanced Grant">
+      <node id="ERC_ADV_H2020" label="ERC Advanced Grant (Horizont 2020)"/>
+      <node id="ERC_ADV_HEU" label="ERC Advanced Grant (Horizont Europa)"/>
+    </node>
+    <node id="EU_ERC_CONS" label="ERC Consolidator Grant">
+      <node id="ERC_CONS_H2020" label="ERC Consolidator Grant (Horizont 2020)"/>
+      <node id="ERC_CONS_HEU" label="ERC Consolidator Grant (Horizont Europa)"/>
+    </node>
+    <node id="EU_ERC_SYN" label="ERC Synergy Grant">
+      <node id="ERC_SYN_H2020" label="ERC Synergy Grant (Horizont 2020)"/>
+      <node id="ERC_SYN_HEU" label="ERC Synergy Grant (Horizont Europa)"/>
+    </node>
+    <node id="EU_MSCA" label="Marie-Skłodowska-Curie Actions (MSCA) (Horizont 2020 oder Horizont Europa)"/>
+    <node id="EU_EURATOM" label="Euratom-Förderung (Horizont 2020 oder Horizont Europa)"/>
+    <node id="EU_VERBUND" label="Verbundvorhaben (Horizont 2020 oder Horizont Europa)"/>
+    <node id="EU_SONSTIGE" label="Sonstige Horizont 2020- oder Horizont Europa-Förderung"/>
+  </node>
+  <node id="DFG" label="Deutsche Forschungsgemeinschaft (DFG)">
+    <node id="DFG_EXC" label="Exzellenzcluster"/>
+    <node id="DFG_SFB" label="Sonderforschungsbereiche (SFB / Transregio)"/>
+    <node id="DFG_GRK" label="Graduiertenkolleg"/>
+    <node id="DFG_LEIBNIZ" label="Gottfried Wilhelm Leibniz-Preis"/>
+    <node id="DFG_LEIBNITZ_HML" label="Heinz Maier-Leibnitz-Preis"/>
+    <node id="DFG_HEISENBERG" label="Heisenberg-Programm"/>
+    <node id="DFG_EMMY_NOETHER" label="Emmy-Noether-Programm"/>
+  </node>
+  <node id="BUND" label="Bund">
+    <node id="BUND_EXIST_EFT" label="EXIST-Forschungstransfer (EFT)"/>
+    <node id="BUND_EXIST_EGS" label="EXIST-Gründungsstipendium (EGS)"/>
+  </node>
+  <node id="AVH" label="Alexander von Humboldt-Stiftung (AvH)">
+    <node id="AVH_PROFESSUR" label="Alexander von Humboldt-Professur"/>
+    <node id="AVH_KOVALEVSKAJA" label="Sofja Kovalevskaja-Preis"/>
+  </node>
+  <node id="DAAD" label="Deutscher Akademischer Austauschdienst (DAAD)">
+    <node id="DAAD_PROJEKT" label="Projektförderung"/>
+    <node id="DAAD_PROGRAMM" label="Programmförderung"/>
+    <node id="DAAD_PROMOS" label="PROMOS-Programm"/>
+    <node id="DAAD_ERASMUS_PLUS" label="Erasmus+-Programm"/>
+  </node>
+</node>

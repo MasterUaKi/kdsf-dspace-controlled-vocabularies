@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Geschlecht
+  KDSF ID: Klassif-L-8 (KDSF-B-1-1)
+  Standard: Statistisches Bundesamt (StBA) / KDSF 2.1
+  Total Entries: 4
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_person_gender" label="KDSF Geschlecht">
+  <is-open value="false"/>
+  <node id="GS-1" label="Männlich"/>
+  <node id="GS-2" label="Weiblich"/>
+  <node id="GS-3" label="Divers"/>
+  <node id="GS-4" label="Ohne Angabe"/>
+</node>

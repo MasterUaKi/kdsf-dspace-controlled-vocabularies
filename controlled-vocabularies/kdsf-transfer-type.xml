@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Art des Transfers
+  KDSF ID: Klassif-L-68 (KDSF-B-16-1)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_transfer_type" label="KDSF Art des Transfers">
+  <is-open value="false"/>
+  <node id="FV-1" label="Übertragung"/>
+  <node id="FV-2" label="Lizenzierung"/>
+  <node id="FV-3" label="Sonstiges"/>
+</node>

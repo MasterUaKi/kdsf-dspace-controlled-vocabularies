@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Institution des höchsten Abschlusses
+  KDSF ID: Klassif-L-29 (KDSF-Allgemein)
+  Standard: Statistisches Bundesamt (StBA)
+  Total Entries: 561
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_person_institutionhighestdegree" label="KDSF Hochschulen (Destatis)">
+  <is-open value="false"/>
+  <node id="60735" label="accadis Hochschule Bad Homburg (Priv. FH)"/>
+  <node id="60183" label="AKAD Hochschule Stuttgart (Priv. Fern-FH)"/>
+  <node id="50205" label="Akademie der Bildenden Künste München (Kunst-H)"/>
+  <node id="50220" label="Akademie der Bildenden Künste Nürnberg (Kunst-H)"/>
+  <node id="70605" label="Akademie der Polizei Hamburg (Verw-FH)"/>
+  <node id="B0705" label="Akademie für Tonkunst Darmstadt"/>
+  <node id="60336" label="Akkon Hochschule Berlin (Priv. FH)"/>
+  <node id="51040" label="Alanus H Alfter (Priv. Kunst-H)"/>
+  <node id="60305" label="Alice Salomon Hochschule Berlin (FH)"/>
+  <node id="60182" label="Allensbach Hochschule Konstanz (Priv. FH)"/>
+  <node id="60515" label="APOLLON H der Gesundheitswirtschaft Bremen (Priv. FH)"/>
+  <node id="B1215" label="ASW - Berufsakademie Saarland Neunkirchen (Private BA)"/>
+  <node id="40215" label="Augustana-H Neuendettelsau (Kirchl.-Theol. H)"/>
+  <node id="B1220" label="BA GSS - Berufsakademie für Gesundheits- und Sozialwesen Saarland gGmbH, Saarbrücken (Private BA)"/>
+  <node id="10360" label="Bard College Berlin, A Liberal Arts University (Priv. U)"/>
+  <node id="50330" label="Barenboim-Said Akademie Berlin (Priv. Kunst-H)"/>
+  <node id="11620" label="Bauhaus-U Weimar"/>
+  <node id="60335" label="bbw Hochschule Berlin (Priv. FH)"/>
+  <node id="60364" label="Berlin International University of Applied Sciences (Priv. FH)"/>
+  <node id="60310" label="Berliner Hochschule für Technik (FH)"/>
+  <node id="60608" label="Berufliche Hochschule Hamburg (FH)"/>
+  <node id="B0915" label="Berufsakademie für Bankwirtschaft Hannover-Rastede (Private BA)"/>
+  <node id="B0920" label="Berufsakademie für IT und Wirtschaft Oldenburg (Private BA)"/>
+  <node id="B0925" label="Berufsakademie Göttingen (Private BA)"/>
+  <node id="B0610" label="Berufsakademie Hamburg (Private BA)"/>
+  <node id="B1230" label="Berufsakademie Heimerer GmbH, Quierschied (Private BA)"/>
+  <node id="B0910" label="Berufsakademie Holztechnik Melle (Private BA)"/>
+  <node id="89850" label="Berufsakademie in Deutschland"/>
+  <node id="B0930" label="Berufsakademie Lüneburg (Private BA)"/>
+  <node id="B0615" label="Berufsakademie Nord GmbH, University of Cooperative Education Hamburg (Private BA)"/>
+  <node id="B0710" label="Berufsakademie Rhein-Main Rödermark (Private BA)"/>
+  <node id="B0940" label="Berufsakademie Welfenakademie Braunschweig (Private BA)"/>
+  <node id="B0945" label="Berufsakademie Wilhelmshaven (Private BA)"/>
+  <node id="60647" label="Brand University Hamburg (Priv. FH)"/>
+  <node id="10407" label="Brandenburgische TU Cottbus-Senftenberg"/>
+  <node id="B0715" label="Brüder-Grimm-Berufsakademie Hanau (Private BA)"/>
+  <node id="60334" label="BSP Business and Law School - Hochschule für Management und Recht Berlin in Berlin (Priv. FH)"/>
+  <node id="60670" label="BSP Business and Law School - Hochschule für Management und Recht Berlin in Hamburg (Priv. FH)"/>
+  <node id="10625" label="Bucerius Law School Hamburg (Priv. U)"/>
+  <node id="51405" label="Burg Giebichenstein Kunsthochschule Halle (Kunst-H)"/>
+  <node id="61065" label="CBS International Business School, Campus Köln und Neuss (Priv. FH)"/>
+  <node id="61155" label="CBS International Business School, Campus Mainz (Priv. FH)"/>
+  <node id="10315" label="Charite - Universitätsmedizin Berlin"/>
+  <node id="10635" label="Charlotte Fresenius Hochschule Wiesbaden in Hamburg (Priv. U)"/>
+  <node id="11077" label="Charlotte Fresenius Hochschule Wiesbaden in Köln (Priv. U)"/>
+  <node id="10265" label="Charlotte Fresenius Hochschule Wiesbaden in München (Priv. U)"/>
+  <node id="10745" label="Charlotte Fresenius Hochschule Wiesbaden in Wiesbaden (Priv. U)"/>
+  <node id="60357" label="CODE University of Applied Sciences Berlin (Priv. FH)"/>
+  <node id="10510" label="Constructor University Bremen gGmbH (Priv. U)"/>
+  <node id="60765" label="CVJM-Hochschule Kassel (Priv. FH)"/>
+  <node id="B0718" label="Deutsche Berufsakademie Sport und Gesundheit (dba) in Baunatal (Private BA)"/>
+  <node id="11080" label="Deutsche Hochschule der Polizei, Münster (U)"/>
+  <node id="60352" label="Deutsche Hochschule für Gesundheit und Sport Berlin in Berlin (Priv. FH)"/>
+  <node id="60268" label="Deutsche Hochschule für Gesundheit und Sport Berlin in Ismaning (Priv. FH)"/>
+  <node id="61067" label="Deutsche Hochschule für Gesundheit und Sport Berlin in Unna (Priv. FH)"/>
+  <node id="61215" label="Deutsche Hochschule für Prävention und Gesundheitsmanagement, Saarbrücken (Priv. FH)"/>
+  <node id="11050" label="Deutsche Sporthochschule Köln (U)"/>
+  <node id="11125" label="Deutsche Universität für Verwaltungswissenschaften Speyer"/>
+  <node id="61540" label="DHSH - Duale Hochschule Schleswig-Holstein, Kiel (Priv. FH)"/>
+  <node id="60345" label="Digital Business University Berlin (Priv. FH)"/>
+  <node id="60755" label="DIPLOMA - FH Nordhessen (Priv. FH)"/>
+  <node id="11340" label="DIU-Dresden International University (Priv. U)"/>
+  <node id="B0720" label="Dr. Hoch's Konservatorium - Musikakademie Frankfurt am Main"/>
+  <node id="60142" label="Duale Hochschule Baden-Württemberg, Stuttgart (FH)"/>
+  <node id="61645" label="Duale Hochschule Gera-Eisenach (FH)"/>
+  <node id="61328" label="Duale Hochschule Sachsen (FH)"/>
+  <node id="10740" label="EBS U für Wirtschaft und Recht (Priv. U)"/>
+  <node id="61047" label="EBZ Business School Bochum (Priv. FH)"/>
+  <node id="61610" label="Ernst-Abbe-Hochschule Jena (FH)"/>
+  <node id="10325" label="ESCP Europe Wirtschaftshochschule Berlin (Priv. U)"/>
+  <node id="11505" label="EUF Europa-Universität Flensburg"/>
+  <node id="60615" label="Europ. Fern-H Hamburg GmbH Hamburg (Priv. FH)"/>
+  <node id="10330" label="Europ. School of Management and Technology, Berlin (Priv. U)"/>
+  <node id="10410" label="Europa-U Viadrina Frankfurt (Oder)"/>
+  <node id="60358" label="Europäische FH (EUFH) in Berlin (Priv. FH)"/>
+  <node id="61051" label="Europäische FH (EUFH) in Brühl, Köln, Neuss und Rheine (Priv. FH)"/>
+  <node id="60835" label="Europäische FH (EUFH) in Rostock (Priv. FH)"/>
+  <node id="60150" label="Europäische Hochschule für Innovation und Perspektive (EHIP), Backnang (Priv. FH)"/>
+  <node id="B0725" label="Europäische Studienakademie Kälte-Klima-Lüftung (ESaK) Maintal (Private BA)"/>
+  <node id="51410" label="Evang. H für Kirchenmusik Halle (Kirchl. Kunst-H)"/>
+  <node id="60630" label="Evang. H für Soziale Arbeit und Diakonie, Hamburg (Kirchl. FH)"/>
+  <node id="60189" label="Evang. Hochschule Freiburg (Kirchl. FH)"/>
+  <node id="60272" label="Evang. Hochschule Nürnberg (Kirchl. FH)"/>
+  <node id="61075" label="Evang. Hochschule Rheinland-Westfalen-Lippe, Bochum (Kirchl. FH)"/>
+  <node id="60370" label="Evangelische Hochschule Berlin (Kirchl. FH)"/>
+  <node id="60760" label="Evangelische Hochschule Darmstadt (EHD), (Kirchl. FH)"/>
+  <node id="61355" label="Evangelische Hochschule Dresden (Kirchl. FH)"/>
+  <node id="60195" label="Evangelische Hochschule Ludwigsburg (Kirchl. FH)"/>
+  <node id="40725" label="Evangelische Hochschule Tabor in Marburg (Priv.-Theol. H)"/>
+  <node id="61365" label="Fachhochschule Dresden (Priv. FH)"/>
+  <node id="60940" label="Fachhochschule für die Wirtschaft Hannover (FHDW) (Priv. FH)"/>
+  <node id="60422" label="Fachhochschule für Sport und Management Potsdam (Priv. FH)"/>
+  <node id="11040" label="Fernuniversität Hagen"/>
+  <node id="61003" label="FH Aachen"/>
+  <node id="61074" label="FH der Diakonie Bielefeld-Bethel (Kirchl. FH)"/>
+  <node id="61072" label="FH der Wirtschaft Paderborn (Priv. FH)"/>
+  <node id="60258" label="FH des Mittelstandes (FHM) in Bamberg (Priv. FH)"/>
+  <node id="60354" label="FH des Mittelstandes (FHM) in Berlin (Priv. FH)"/>
+  <node id="60944" label="FH des Mittelstandes (FHM) in Hannover (Priv. FH)"/>
+  <node id="60830" label="FH des Mittelstandes (FHM) in Rostock und Schwerin (Priv. FH)"/>
+  <node id="61042" label="FH des Mittelstandes in Bielefeld, Köln und Frechen (Priv. FH)"/>
+  <node id="61015" label="FH Dortmund"/>
+  <node id="61605" label="FH Erfurt"/>
+  <node id="70705" label="FH für Archivwesen Marburg (Verw-FH)"/>
+  <node id="70410" label="FH für Finanzen Brandenburg Königs Wusterhausen (Verw-FH)"/>
+  <node id="60930" label="FH für Interkulturelle Theologie Hermannsburg (Priv. FH)"/>
+  <node id="71005" label="FH für Rechtspflege NW in Bad Münstereifel (Verw-FH)"/>
+  <node id="70115" label="FH für Rechtspflege Schwetzingen (Verw-FH)"/>
+  <node id="71205" label="FH für Verwaltung Saarbrücken (Verw-FH)"/>
+  <node id="71505" label="FH für Verwaltung und Dienstleistung Altenholz (Verw-FH)"/>
+  <node id="70105" label="FH für öffentliche Verwaltung Kehl (Verw-FH)"/>
+  <node id="70805" label="FH für öffentliche Verwaltung, Polizei und Rechtspflege in Güstrow (Verw-FH)"/>
+  <node id="61515" label="FH Kiel"/>
+  <node id="61030" label="FH Münster"/>
+  <node id="60945" label="FH Ottersberg (Priv. FH)"/>
+  <node id="71405" label="FH Polizei Sachsen-Anhalt, Aschersleben (Verw-FH)"/>
+  <node id="60420" label="FH Potsdam"/>
+  <node id="60155" label="FH Stuttgart, H der Medien"/>
+  <node id="61036" label="FH Südwestfalen"/>
+  <node id="61535" label="FH Wedel (Priv. FH)"/>
+  <node id="61510" label="FH Westküste, Heide"/>
+  <node id="10425" label="Filmuniversität Babelsberg"/>
+  <node id="61043" label="Fliedner Fachhochschule Düsseldorf (Priv. FH)"/>
+  <node id="51020" label="Folkwang U der Künste Essen (Kunst-H)"/>
+  <node id="10735" label="Frankfurt School of Finance &amp; Management-HfB (Priv. U)"/>
+  <node id="60710" label="Frankfurt University of Applied Sciences (FH)"/>
+  <node id="10170" label="Freie Hochschule Stuttgart, Seminar für Waldorfpädagogik (Priv. U)"/>
+  <node id="40720" label="Freie Theologische H (FTH) Gießen (Priv.-Theol. H)"/>
+  <node id="10305" label="FU Berlin"/>
+  <node id="10365" label="German International University Berlin (Priv. U)"/>
+  <node id="10435" label="German University of Applied Sciences Potsdam (Priv. U)"/>
+  <node id="60445" label="Gisma University of Applied Sciences Potsdam (Priv. FH)"/>
+  <node id="60438" label="GU- Deutsche Hochschule für angewandte Wissenschaften, Potsdam (Priv. FH)"/>
+  <node id="60106" label="H Albstadt-Sigmaringen (FH)"/>
+  <node id="61405" label="H Anhalt (FH)"/>
+  <node id="60109" label="H Biberach a. d. Riss (FH)"/>
+  <node id="61012" label="H Bonn-Rhein-Sieg (FH)"/>
+  <node id="60505" label="H Bremen (FH)"/>
+  <node id="60510" label="H Bremerhaven (FH)"/>
+  <node id="51205" label="H der Bildenden Künste Saarbrücken (Kunst-H)"/>
+  <node id="60730" label="H der Deutschen Gesetzl. Unfallversicherung, Bad Hersfeld (Priv. FH)"/>
+  <node id="71310" label="H der Sächsischen Polizei (FH) (Verw-FH)"/>
+  <node id="61018" label="H Düsseldorf (FH)"/>
+  <node id="60115" label="H Esslingen (FH)"/>
+  <node id="60118" label="H Furtwangen (FH)"/>
+  <node id="60605" label="H für Angewandte Wissenschaften Hamburg (FH)"/>
+  <node id="60253" label="H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH)"/>
+  <node id="50705" label="H für Bildende Künste - Städelschule Frankfurt a.M. (Kunst-H)"/>
+  <node id="50905" label="H für Bildende Künste Braunschweig (Kunst-H)"/>
+  <node id="51305" label="H für Bildende Künste Dresden (Kunst-H)"/>
+  <node id="50605" label="H für Bildende Künste Hamburg (Kunst-H)"/>
+  <node id="50235" label="H für evang. Kirchenmusik Bayreuth (Kirchl. Kunst-H)"/>
+  <node id="50210" label="H für Fernsehen und Film München (Kunst-H)"/>
+  <node id="61048" label="H für Finanzwirtschaft &amp; Management Bonn (Priv. FH)"/>
+  <node id="60149" label="H für Forstwirtschaft Rottenburg (FH)"/>
+  <node id="61150" label="H für Gesellschaftsgestaltung Koblenz (Priv. FH)"/>
+  <node id="50715" label="H für Gestaltung Offenbach (Kunst-H)"/>
+  <node id="60152" label="H für Gestaltung Schwäbisch Gmünd (FH)"/>
+  <node id="51325" label="H für Graphik und Buchkunst Leipzig (Kunst-H)"/>
+  <node id="10175" label="H für jüdische Studien Heidelberg (Kirchl. U)"/>
+  <node id="50240" label="H für kath. Kirchenmusik und Musikpädagogik, Regensburg (Kirchl. Kunst-H)"/>
+  <node id="51310" label="H für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden (Kirchl. Kunst-H)"/>
+  <node id="41012" label="H für Kirchenmusik Herford-Witten (Kirchl.-Theol. H)"/>
+  <node id="50505" label="H für Künste Bremen (Kunst-H)"/>
+  <node id="50315" label="H für Musik Berlin (Kunst-H)"/>
+  <node id="51005" label="H für Musik Detmold (Kunst-H)"/>
+  <node id="51315" label="H für Musik Dresden (Kunst-H)"/>
+  <node id="50225" label="H für Musik Nürnberg (Kunst-H)"/>
+  <node id="50710" label="H für Musik und Darstellende Kunst Frankfurt a.M. (Kunst-H)"/>
+  <node id="51030" label="H für Musik und Tanz Köln (Kunst-H)"/>
+  <node id="50610" label="H für Musik und Theater Hamburg (Kunst-H)"/>
+  <node id="51330" label="H für Musik und Theater Leipzig (Kunst-H)"/>
+  <node id="50215" label="H für Musik und Theater München (Kunst-H)"/>
+  <node id="50805" label="H für Musik und Theater Rostock (Kunst-H)"/>
+  <node id="51605" label="H für Musik Weimar (Kunst-H)"/>
+  <node id="50230" label="H für Musik Würzburg (Kunst-H)"/>
+  <node id="40210" label="H für Philosophie München (Kirchl.-Theol. H)"/>
+  <node id="10245" label="H für Politik München (U)"/>
+  <node id="50320" label="H für Schauspielkunst Berlin (Kunst-H)"/>
+  <node id="60315" label="H für Technik und Wirtschaft Berlin (FH)"/>
+  <node id="61205" label="H für Technik und Wirtschaft des Saarlandes Saarbrücken (FH)"/>
+  <node id="61305" label="H für Technik und Wirtschaft Dresden, Hochschule für angewandte Wissenschaften (FH)"/>
+  <node id="60146" label="H für Technik und Wirtschaft Reutlingen (FH)"/>
+  <node id="61310" label="H für Technik, Wirtschaft und Kultur Leipzig, Hochschule für angewandte Wissenschaften (FH)"/>
+  <node id="60950" label="H für Wirtschaft und Technik Vechta/Diepholz (Priv. FH)"/>
+  <node id="70505" label="H für öffentliche Verwaltung Bremen (Verw-FH)"/>
+  <node id="61057" label="H für Ökonomie und Management Essen (Standorte in Nordrhein-Westfalen), (Priv. FH)"/>
+  <node id="60261" label="H für Ökonomie und Management Essen in Augsburg, München und Nürnberg (Priv. FH)"/>
+  <node id="60351" label="H für Ökonomie und Management Essen in Berlin (Priv. FH)"/>
+  <node id="60525" label="H für Ökonomie und Management Essen in Bremen (Priv. FH)"/>
+  <node id="60668" label="H für Ökonomie und Management Essen in Hamburg (Priv. FH)"/>
+  <node id="60942" label="H für Ökonomie und Management Essen in Hannover (Priv. FH)"/>
+  <node id="60164" label="H für Ökonomie und Management Essen in Karlsruhe, Mannheim und Stuttgart (Priv. FH)"/>
+  <node id="60775" label="H für Ökonomie und Management Essen in Kassel und Frankfurt (Priv. FH)"/>
+  <node id="61336" label="H für Ökonomie und Management Essen in Leipzig (Priv. FH)"/>
+  <node id="61220" label="H für Ökonomie und Management Essen in Saarbrücken (Priv. FH)"/>
+  <node id="61022" label="H Hamm-Lippstadt (FH)"/>
+  <node id="61410" label="H Harz (FH)"/>
+  <node id="60121" label="H Heilbronn (FH)"/>
+  <node id="60124" label="H Karlsruhe (FH)"/>
+  <node id="60127" label="H Konstanz (FH)"/>
+  <node id="60166" label="H Macromedia für angewandte Wissenschaften Stuttgart, Campus Stuttgart und Freiburg (Priv. FH)"/>
+  <node id="61415" label="H Magdeburg-Stendal (FH)"/>
+  <node id="60132" label="H Mannheim (FH)"/>
+  <node id="61315" label="H Mittweida (University of Applied Sciences), Hochschule für angewandte Wissenschaften (FH)"/>
+  <node id="61033" label="H Niederrhein (FH)"/>
+  <node id="60134" label="H Nürtingen (FH)"/>
+  <node id="60137" label="H Offenburg (FH)"/>
+  <node id="60140" label="H Pforzheim (FH)"/>
+  <node id="60143" label="H Ravensburg-Weingarten (FH)"/>
+  <node id="61034" label="H Rhein-Waal (FH)"/>
+  <node id="61038" label="H Ruhr-West (FH)"/>
+  <node id="61320" label="H Zittau/Görlitz, Hochschule für angewandte Wissenschaften (FH)"/>
+  <node id="60705" label="h_da - H Darmstadt (FH)"/>
+  <node id="10615" label="HafenCity Universität Hamburg"/>
+  <node id="60259" label="HDBW Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften (Priv. FH)"/>
+  <node id="10620" label="Helmut-Schmidt-Universität Hamburg"/>
+  <node id="10335" label="Hertie School of Governance Berlin (Priv. U)"/>
+  <node id="B0730" label="Hessische Berufsakademie Frankfurt (Private BA)"/>
+  <node id="70710" label="Hessische Hochschule für Finanzen und Rechtspflege Rotenburg (Verw-FH)"/>
+  <node id="70715" label="Hessische Hochschule für öffentliches Management und Sicherheit Wiesbaden (Verw-FH)"/>
+  <node id="60620" label="HFH Hamburger Fern-H (Priv. FH)"/>
+  <node id="11345" label="HHL Leipzig Graduate School of Management (Priv. U)"/>
+  <node id="11625" label="HMU Health and Medical University Erfurt in Erfurt (Priv. U)"/>
+  <node id="10430" label="HMU Health and Medical University Erfurt in Potsdam (Priv. U)"/>
+  <node id="60103" label="Hochschule Aalen - Technik und Wirtschaft (FH)"/>
+  <node id="61006" label="Hochschule Bielefeld (FH)"/>
+  <node id="61009" label="Hochschule Bochum (FH)"/>
+  <node id="60905" label="Hochschule Braunschweig-Wolfenbüttel (FH)"/>
+  <node id="51045" label="Hochschule der bildenden Künste (HBK) Essen (Priv. Kunst-H)"/>
+  <node id="71110" label="Hochschule der Deutschen Bundesbank Hachenburg (Priv. Verw-FH)"/>
+  <node id="70405" label="Hochschule der Polizei Brandenburg in Oranienburg (Verw-FH)"/>
+  <node id="71120" label="Hochschule der Polizei Rheinland-Pfalz in Büchenbeuren (Verw-FH)"/>
+  <node id="61525" label="Hochschule der Wirtschaft (Nordakademie) Elmshorn (Priv. FH)"/>
+  <node id="60175" label="Hochschule der Wirtschaft für Management (HdWM) Mannheim (Priv. FH)"/>
+  <node id="70310" label="Hochschule des Bundes für öffentliche Verwaltung, Berlin"/>
+  <node id="71020" label="Hochschule des Bundes für öffentliche Verwaltung, Brühl und Münster"/>
+  <node id="70720" label="Hochschule des Bundes für öffentliche Verwaltung, Hessen"/>
+  <node id="71510" label="Hochschule des Bundes für öffentliche Verwaltung, Lübeck"/>
+  <node id="70125" label="Hochschule des Bundes für öffentliche Verwaltung, Mannheim"/>
+  <node id="60907" label="Hochschule Emden/Leer (FH)"/>
+  <node id="61505" label="Hochschule Flensburg (FH)"/>
+  <node id="60178" label="Hochschule Fresenius Heidelberg (Priv. FH)"/>
+  <node id="60369" label="Hochschule Fresenius Idstein in Berlin (Priv. FH)"/>
+  <node id="60645" label="Hochschule Fresenius Idstein in Hamburg (Priv. FH)"/>
+  <node id="60750" label="Hochschule Fresenius Idstein in Idstein, Frankfurt und Wiesbaden (Priv. FH)"/>
+  <node id="61066" label="Hochschule Fresenius Idstein in Köln und Düsseldorf (Priv. FH)"/>
+  <node id="60262" label="Hochschule Fresenius Idstein in München (Priv. FH)"/>
+  <node id="60715" label="Hochschule Fulda (FH)"/>
+  <node id="60206" label="Hochschule für angewandte Wissenschaften Ansbach (FH)"/>
+  <node id="60215" label="Hochschule für angewandte Wissenschaften Coburg (FH)"/>
+  <node id="60129" label="Hochschule für angewandte Wissenschaften der Bundesagentur für Arbeit in Mannheim (FH)"/>
+  <node id="60825" label="Hochschule für angewandte Wissenschaften der Bundesagentur für Arbeit in Schwerin (FH)"/>
+  <node id="60225" label="Hochschule für angewandte Wissenschaften Hof (FH)"/>
+  <node id="60231" label="Hochschule für angewandte Wissenschaften Kempten (FH)"/>
+  <node id="60234" label="Hochschule für angewandte Wissenschaften Landshut (FH)"/>
+  <node id="60238" label="Hochschule für angewandte Wissenschaften München (FH)"/>
+  <node id="60241" label="Hochschule für angewandte Wissenschaften Neu-Ulm (FH)"/>
+  <node id="60263" label="Hochschule für angewandtes Management, Ismaning (Priv. FH)"/>
+  <node id="70205" label="Hochschule für den öffentlichen Dienst in Bayern (Verw-FH)"/>
+  <node id="71010" label="Hochschule für Finanzen Nordrhein-Westfalen in Nordkirchen (Verw-FH)"/>
+  <node id="71105" label="Hochschule für Finanzen Rheinland-Pfalz (HFin) in Edenkoben (Verw-FH)"/>
+  <node id="60450" label="Hochschule für Gesundheitsberufe Eberswalde (HGE) - (Priv. FH)"/>
+  <node id="60177" label="Hochschule für Kommunikation und Gestaltung (Priv. FH)"/>
+  <node id="51210" label="Hochschule für Musik Saarbrücken (Kunst-H)"/>
+  <node id="50910" label="Hochschule für Musik, Theater und Medien Hannover (Kunst-H)"/>
+  <node id="60410" label="Hochschule für nachhaltige Entwicklung Eberswalde (FH)"/>
+  <node id="71015" label="Hochschule für Polizei und öffentliche Verwaltung NW (Verw-FH)"/>
+  <node id="60361" label="Hochschule für Soziale Arbeit und Pädagogik (HSAP), Berlin (Priv. FH)"/>
+  <node id="60158" label="Hochschule für Technik Stuttgart (FH)"/>
+  <node id="61120" label="Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (FH)"/>
+  <node id="71115" label="Hochschule für öffentliche Verwaltung Rheinland-Pfalz (HöV), Mayen"/>
+  <node id="60728" label="Hochschule Geisenheim University (FH)"/>
+  <node id="60910" label="Hochschule Hannover (FH)"/>
+  <node id="60915" label="Hochschule Hildesheim/Holzminden/Göttingen (FH)"/>
+  <node id="61110" label="Hochschule Kaiserslautern (FH)"/>
+  <node id="61115" label="Hochschule Koblenz (FH)"/>
+  <node id="70110" label="Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen (Verw-FH)"/>
+  <node id="60338" label="Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Berlin (Priv. FH)"/>
+  <node id="60776" label="Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Frankfurt a. M. (Priv. FH)"/>
+  <node id="60678" label="Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Hamburg (Priv. FH)"/>
+  <node id="61062" label="Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Köln (Priv. FH)"/>
+  <node id="61331" label="Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Leipzig (Priv. FH)"/>
+  <node id="60265" label="Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus München (Priv. FH)"/>
+  <node id="61125" label="Hochschule Mainz (FH)"/>
+  <node id="71305" label="Hochschule Meißen (FH) und Fortbildungszentrum (Verw-FH)"/>
+  <node id="61420" label="Hochschule Merseburg (FH)"/>
+  <node id="60805" label="Hochschule Neubrandenburg (FH)"/>
+  <node id="61615" label="Hochschule Nordhausen (FH)"/>
+  <node id="60925" label="Hochschule Osnabrück (FH)"/>
+  <node id="60725" label="Hochschule RheinMain (FH)"/>
+  <node id="61620" label="Hochschule Schmalkalden (FH)"/>
+  <node id="60810" label="Hochschule Stralsund (FH)"/>
+  <node id="61130" label="Hochschule Trier (FH)"/>
+  <node id="60912" label="Hochschule Weserbergland (HSW), Hameln (Priv. FH)"/>
+  <node id="60920" label="Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH)"/>
+  <node id="60815" label="Hochschule Wismar (FH)"/>
+  <node id="61135" label="Hochschule Worms (FH)"/>
+  <node id="60927" label="Hochschule21, Buxtehude (Priv. FH)"/>
+  <node id="99905" label="Hochschulen im Ausland"/>
+  <node id="60625" label="HSBA Hamburg School of Business Admin. (Priv. FH)"/>
+  <node id="61070" label="HSD Hochschule Döpfer Potsdam in Köln (Priv. FH)"/>
+  <node id="60424" label="HSD Hochschule Döpfer Potsdam in Potsdam (Priv. FH)"/>
+  <node id="60269" label="HSD Hochschule Döpfer Potsdam in Regensburg (Priv. FH)"/>
+  <node id="60355" label="Humanistische Hochschule Berlin (Priv. FH)"/>
+  <node id="10320" label="Humboldt-Universität Berlin"/>
+  <node id="60320" label="HWR Berlin (FH)"/>
+  <node id="60347" label="IB Hochschule für Gesundheit und Soziales Berlin in Berlin (Priv. FH)"/>
+  <node id="60672" label="IB Hochschule für Gesundheit und Soziales Berlin in Hamburg (Priv. FH)"/>
+  <node id="61040" label="IB Hochschule für Gesundheit und Soziales Berlin in Köln (Priv. FH)"/>
+  <node id="60249" label="IB Hochschule für Gesundheit und Soziales Berlin in München (Priv. FH)"/>
+  <node id="60188" label="IB Hochschule für Gesundheit und Soziales Berlin in Stuttgart (Priv. FH)"/>
+  <node id="60162" label="IFAA Hochschule Ketsch (Priv. FH)"/>
+  <node id="10350" label="International Psychoanalytic University Berlin (Priv. U)"/>
+  <node id="60359" label="International School of Management Dortmund in Berlin (Priv. FH)"/>
+  <node id="61054" label="International School of Management Dortmund in Dortmund und Köln (Priv. FH)"/>
+  <node id="60780" label="International School of Management Dortmund in Frankfurt (Priv. FH)"/>
+  <node id="60649" label="International School of Management Dortmund in Hamburg (Priv. FH)"/>
+  <node id="60279" label="International School of Management Dortmund in München (Priv. FH)"/>
+  <node id="60168" label="International School of Management Dortmund in Stuttgart (Priv. FH)"/>
+  <node id="B0760" label="Internationale Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba) (Private BA)"/>
+  <node id="60163" label="Internationale Hochschule Liebenzell (Kirchl. FH)"/>
+  <node id="60264" label="Internationale Hochschule SDI München-Hochschule für angewandte Wissenschaften (Priv. FH)"/>
+  <node id="61046" label="INU - Innovative University of Applied Sciences, Köln (Priv. FH)"/>
+  <node id="B1225" label="ISBA gGmbH - Internationale Studien- und Berufsakademie, Saarbrücken (Private BA)"/>
+  <node id="61059" label="IST-Hochschule für Management Düsseldorf (Priv. FH)"/>
+  <node id="61039" label="IU Intern. Hochschule Erfurt in Bad Honnef,Dortmund,Düsseldorf,Essen,Köln und Münster (Priv. FH)"/>
+  <node id="60374" label="IU Internationale Hochschule Erfurt in Berlin (Priv. FH)"/>
+  <node id="60520" label="IU Internationale Hochschule Erfurt in Bremen (Priv. FH)"/>
+  <node id="61650" label="IU Internationale Hochschule Erfurt in Erfurt (Priv. FH)"/>
+  <node id="60783" label="IU Internationale Hochschule Erfurt in Frankfurt (Priv. FH)"/>
+  <node id="60165" label="IU Internationale Hochschule Erfurt in Freiburg, Mannheim und Stuttgart (Priv. FH)"/>
+  <node id="60680" label="IU Internationale Hochschule Erfurt in Hamburg (Priv. FH)"/>
+  <node id="60933" label="IU Internationale Hochschule Erfurt in Hannover (Priv. FH)"/>
+  <node id="61333" label="IU Internationale Hochschule Erfurt in Leipzig und Dresden (Priv. FH)"/>
+  <node id="61545" label="IU Internationale Hochschule Erfurt in Lübeck (Priv. FH)"/>
+  <node id="61160" label="IU Internationale Hochschule Erfurt in Mainz (Priv. FH)"/>
+  <node id="60277" label="IU Internationale Hochschule Erfurt in München, Augsburg und Nürnberg (Priv. FH)"/>
+  <node id="60174" label="Karlshochschule International University, Karlsruhe (Priv. FH)"/>
+  <node id="10120" label="Karlsruher Institut für Technologie (KIT) - Bereich Hochschule (U)"/>
+  <node id="60198" label="Kath. Hochschule Freiburg i.Br. (Kirchl. FH)"/>
+  <node id="61078" label="Kath. Hochschule Nordrhein-Westfalen (Kirchl. FH)"/>
+  <node id="10220" label="Kath. U Eichstätt-Ingolstadt (Kirchl. U)"/>
+  <node id="60380" label="Katholische Hochschule für Sozialwesen Berlin (Kirchl. FH)"/>
+  <node id="61145" label="Katholische Hochschule Mainz (Kirchl. FH)"/>
+  <node id="60275" label="Katholische Stiftungshochschule München (Kirchl. FH)"/>
+  <node id="51025" label="KH für Medien Köln (Kunst-H)"/>
+  <node id="41035" label="Kirchliche Hochschule Wuppertal (Kirchl.-Theol. H)"/>
+  <node id="10630" label="KLU Kühne Logistics University (Priv. U)"/>
+  <node id="61044" label="Kolping H, Köln (Priv. FH)"/>
+  <node id="70930" label="Kommunale H für Verwaltung in Niedersachsen, Hannover (Priv. Verw-FH)"/>
+  <node id="51010" label="Kunstakademie Düsseldorf (Kunst-H)"/>
+  <node id="51035" label="Kunstakademie Münster (Kunst-H)"/>
+  <node id="41025" label="Kölner H für Katholische Theologie (Kirchl.-Theol. H)"/>
+  <node id="60965" label="Leibniz - Fachhochschule Hannover (Priv. FH)"/>
+  <node id="40715" label="Luth.-Theologische H Oberursel (Kirchl.-Theol. H)"/>
+  <node id="60185" label="media Akademie - Hochschule Stuttgart (Priv. FH)"/>
+  <node id="60349" label="Media University of Applied Sciences Berlin, Campus Berlin (Priv. FH)"/>
+  <node id="60758" label="Media University of Applied Sciences Berlin, Campus Frankfurt (Priv. FH)"/>
+  <node id="61073" label="Media University of Applied Sciences Berlin, Campus Köln (Priv. FH)"/>
+  <node id="60353" label="Mediadesign Hochschule Berlin in Berlin (Priv. FH)"/>
+  <node id="61041" label="Mediadesign Hochschule Berlin in Düsseldorf (Priv. FH)"/>
+  <node id="60248" label="Mediadesign Hochschule Berlin in München (Priv. FH)"/>
+  <node id="60340" label="Medical School Berlin, H für Gesundheit und Medizin (Priv. FH)"/>
+  <node id="10925" label="Medizinische H Hannover (U)"/>
+  <node id="10420" label="Medizinische Hochschule Brandenburg in Neuruppin (Priv. U)"/>
+  <node id="10417" label="Medizinische Universität Lausitz - Carl Thiem (MUL), Cottbus"/>
+  <node id="60186" label="Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart (Priv. FH)"/>
+  <node id="60650" label="MSH Medical School Hamburg (Priv. FH)"/>
+  <node id="60266" label="Munich Business School München (Priv. FH)"/>
+  <node id="B0770" label="Musikakademie der Stadt Kassel Louis Spohr"/>
+  <node id="51510" label="Musikhochschule Lübeck (Kunst-H)"/>
+  <node id="51505" label="Muthesius Kunsthochschule Kiel (Kunst-H)"/>
+  <node id="70610" label="Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg (Verw-FH)"/>
+  <node id="70910" label="Norddeutsche Hochschule für Rechtspflege Hildesheim (Verw-FH)"/>
+  <node id="60642" label="Northern Business School Hamburg (Priv. FH)"/>
+  <node id="60203" label="Ostbayerische Technische Hochschule Amberg-Weiden (FH)"/>
+  <node id="60247" label="Ostbayerische Technische Hochschule Regensburg (FH)"/>
+  <node id="51320" label="Palucca Hochschule für Tanz Dresden (Kunst-H)"/>
+  <node id="30105" label="PH Freiburg i.Br."/>
+  <node id="30110" label="PH Heidelberg"/>
+  <node id="30115" label="PH Karlsruhe"/>
+  <node id="30120" label="PH Ludwigsburg"/>
+  <node id="30125" label="PH Schwäbisch Gmünd"/>
+  <node id="30130" label="PH Weingarten"/>
+  <node id="40705" label="Phil.-Theol. H Frankfurt a.M. (Kirchl.-Theol. H)"/>
+  <node id="41015" label="Phil.-Theol. H Münster (Kirchl.-Theol. H)"/>
+  <node id="B0775" label="Private Berufsakademie Fulda"/>
+  <node id="60935" label="Private Hochschule Göttingen (Priv. FH)"/>
+  <node id="61037" label="Promotionskolleg NRW, Bochum (FH)"/>
+  <node id="61550" label="Promotionskolleg Schleswig-Holstein an der FH Kiel"/>
+  <node id="60157" label="Promotionsverband Baden-Württemberg, Stuttgart"/>
+  <node id="60281" label="Promotionszentrum Advanced Building Technologies, TH Rosenheim"/>
+  <node id="60288" label="Promotionszentrum Analytics4Health, Coburg"/>
+  <node id="60770" label="Promotionszentrum Angewandte Informatik, Darmstadt"/>
+  <node id="60294" label="Promotionszentrum Angewandte Informatik, Regensburg"/>
+  <node id="60296" label="Promotionszentrum CARRI, München"/>
+  <node id="60284" label="Promotionszentrum Center for Physical and Biomedical Engineering/HaW München"/>
+  <node id="60287" label="Promotionszentrum Digitale Technologien und ihre Anwendung, Deggendorf"/>
+  <node id="60293" label="Promotionszentrum DIWAG, Neu-Ulm"/>
+  <node id="60283" label="Promotionszentrum Energietechnik (PZE), TH Nürnberg"/>
+  <node id="60291" label="Promotionszentrum Ingenieurwissenschaften, Ingolstadt"/>
+  <node id="60292" label="Promotionszentrum Integrales Bauen, München"/>
+  <node id="60290" label="Promotionszentrum Künstliche Intelligenz/Informatik, Ingolstadt"/>
+  <node id="60295" label="Promotionszentrum Materialien und Produktionstechnik, Nürnberg"/>
+  <node id="60772" label="Promotionszentrum Mobilität und Logistik, Frankfurt am Main"/>
+  <node id="60286" label="Promotionszentrum Nachhaltige und Intelligente Systeme (NISys), Würzburg-Schweinfurt"/>
+  <node id="60280" label="Promotionszentrum NITRO, TH Augsburg"/>
+  <node id="60289" label="Promotionszentrum Ressourceneffizienz und Digitalisierung, Amberg-Weiden"/>
+  <node id="60285" label="Promotionszentrum Sozial- und Gesundheitswiss. Gestaltung von Transformationsprozessen, Regensburg"/>
+  <node id="60768" label="Promotionszentrum Soziale Arbeit, Wiesbaden"/>
+  <node id="60282" label="Promotionszentrum Sustainable Land Use Systems, H Weihenstephan-Triesdorf (FH)"/>
+  <node id="60297" label="Promotionszentrum Transformation und nachhaltige Entwicklung, HaW Kempten"/>
+  <node id="60745" label="Provadis School of Intern. Management and Technology, Frankfurt a.M. (Priv. FH)"/>
+  <node id="10355" label="Psychologische Hochschule Berlin (Priv. U)"/>
+  <node id="60367" label="Quadriga Hochschule Berlin (Priv. FH)"/>
+  <node id="61069" label="Rheinische Hochschule Köln (Priv. FH)"/>
+  <node id="11105" label="Rheinland-Pfälzische Technische Universität"/>
+  <node id="51015" label="Robert-Schumann-H Düsseldorf (Kunst-H)"/>
+  <node id="89805" label="Sonstige deutsche Hochschulen"/>
+  <node id="60179" label="SRH Fernhochschule, Riedlingen (Priv. FH)"/>
+  <node id="60356" label="SRH University of Applied Sciences Heidelberg in Berlin (Priv. FH)"/>
+  <node id="60530" label="SRH University of Applied Sciences Heidelberg in Bremen (Priv. FH)"/>
+  <node id="61338" label="SRH University of Applied Sciences Heidelberg in Dresden (Priv. FH)"/>
+  <node id="60267" label="SRH University of Applied Sciences Heidelberg in Fürth (Priv. FH)"/>
+  <node id="61640" label="SRH University of Applied Sciences Heidelberg in Gera (Priv. FH)"/>
+  <node id="60667" label="SRH University of Applied Sciences Heidelberg in Hamburg (Priv. FH)"/>
+  <node id="61060" label="SRH University of Applied Sciences Heidelberg in Hamm und Köln (Priv. FH)"/>
+  <node id="61542" label="SRH University of Applied Sciences Heidelberg in Heide (Priv. FH)"/>
+  <node id="60171" label="SRH University of Applied Sciences Heidelberg in Heidelberg, Karlsruhe und Stuttgart (Priv. FH)"/>
+  <node id="50110" label="Staatl. Akademie der Bildenden Künste Karlsruhe (Kunst-H)"/>
+  <node id="50130" label="Staatl. Akademie der Bildenden Künste Stuttgart (Kunst-H)"/>
+  <node id="50115" label="Staatl. H für Gestaltung Karlsruhe (Kunst-H)"/>
+  <node id="50105" label="Staatl. H für Musik Freiburg i.Br. (Kunst-H)"/>
+  <node id="50120" label="Staatl. H für Musik Karlsruhe (Kunst-H)"/>
+  <node id="50140" label="Staatl. H für Musik Trossingen (Kunst-H)"/>
+  <node id="50125" label="Staatl. H für Musik und Darstellende Kunst Mannheim (Kunst-H)"/>
+  <node id="50135" label="Staatl. H für Musik und Darstellende Kunst Stuttgart (Kunst-H)"/>
+  <node id="70120" label="Staatl. H für Polizei Villingen-Schwenningen (Verw-FH)"/>
+  <node id="10340" label="Steinbeis Hochschule in Berlin (Priv. U)"/>
+  <node id="61430" label="Steinbeis Hochschule in Magdeburg (Priv. FH)"/>
+  <node id="60213" label="Technische Hochschule Augsburg (FH)"/>
+  <node id="61105" label="Technische Hochschule Bingen (FH)"/>
+  <node id="60405" label="Technische Hochschule Brandenburg (FH)"/>
+  <node id="60220" label="Technische Hochschule Deggendorf (FH)"/>
+  <node id="60228" label="Technische Hochschule Ingolstadt (FH)"/>
+  <node id="61024" label="Technische Hochschule Köln (FH)"/>
+  <node id="61520" label="Technische Hochschule Lübeck (FH)"/>
+  <node id="60720" label="Technische Hochschule Mittelhessen (THM), FH"/>
+  <node id="60244" label="Technische Hochschule Nürnberg Georg Simon Ohm (FH)"/>
+  <node id="60161" label="Technische Hochschule Ulm (FH)"/>
+  <node id="60425" label="Technische Hochschule Wildau (FH)"/>
+  <node id="60257" label="Technische Hochschule Würzburg-Schweinfurt (THWS) (FH)"/>
+  <node id="10610" label="Technische Universität Hamburg"/>
+  <node id="10227" label="Technische Universität Nürnberg"/>
+  <node id="11005" label="TH Aachen (U)"/>
+  <node id="60210" label="TH Aschaffenburg (FH)"/>
+  <node id="61045" label="TH Georg Agricola Bochum (Priv. FH)"/>
+  <node id="61027" label="TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter (FH)"/>
+  <node id="60250" label="TH Rosenheim (FH)"/>
+  <node id="40710" label="Theol. Fakultät Fulda (Kirchl.-Theol. H)"/>
+  <node id="41020" label="Theol. Fakultät Paderborn (Kirchl.-Theol. H)"/>
+  <node id="41105" label="Theol. Fakultät Trier (Kirchl.-Theol. H)"/>
+  <node id="41405" label="Theol. H Friedensau (Kirchl.-Theol. H)"/>
+  <node id="40717" label="Theologische H Ewersbach in Dietzhölztal (Priv.-Theol. H)"/>
+  <node id="60430" label="Theologische Hochschule Elstal (Kirchl. FH)"/>
+  <node id="60192" label="Theologisches Seminar Reutlingen (Kirchl. FH)"/>
+  <node id="71610" label="Thüringer FH für öffentliche Verwaltung Gotha (Verw-FH)"/>
+  <node id="10930" label="Tierärztliche H Hannover (U)"/>
+  <node id="60748" label="Tomorrow University of Applied Sciences, Frankfurt a. M. (Priv.Fern-FH)"/>
+  <node id="60333" label="Touro College Berlin (Priv. FH)"/>
+  <node id="11320" label="TU Bergakademie Freiberg"/>
+  <node id="10310" label="TU Berlin"/>
+  <node id="10905" label="TU Braunschweig"/>
+  <node id="11305" label="TU Chemnitz"/>
+  <node id="10910" label="TU Clausthal"/>
+  <node id="10705" label="TU Darmstadt"/>
+  <node id="11025" label="TU Dortmund"/>
+  <node id="11310" label="TU Dresden"/>
+  <node id="11315" label="TU Dresden (Med. Fakultät)"/>
+  <node id="11610" label="TU Ilmenau"/>
+  <node id="10148" label="TU München in Heilbronn"/>
+  <node id="10235" label="TU München in München, Straubing, Garching und Weihenstephan"/>
+  <node id="10205" label="U Augsburg"/>
+  <node id="10210" label="U Bamberg"/>
+  <node id="10215" label="U Bayreuth"/>
+  <node id="11010" label="U Bielefeld"/>
+  <node id="11015" label="U Bochum"/>
+  <node id="11020" label="U Bonn"/>
+  <node id="10505" label="U Bremen"/>
+  <node id="10240" label="U der Bundeswehr München"/>
+  <node id="50305" label="U der Künste Berlin (Kunst-H)"/>
+  <node id="11205" label="U des Saarlandes Saarbrücken"/>
+  <node id="11034" label="U Duisburg-Essen"/>
+  <node id="11030" label="U Düsseldorf"/>
+  <node id="11605" label="U Erfurt"/>
+  <node id="10225" label="U Erlangen-Nürnberg"/>
+  <node id="10710" label="U Frankfurt a.M."/>
+  <node id="10105" label="U Freiburg i.Br."/>
+  <node id="10715" label="U Gießen"/>
+  <node id="10805" label="U Greifswald"/>
+  <node id="10915" label="U Göttingen"/>
+  <node id="11405" label="U Halle"/>
+  <node id="10605" label="U Hamburg"/>
+  <node id="10920" label="U Hannover"/>
+  <node id="10110" label="U Heidelberg"/>
+  <node id="10935" label="U Hildesheim"/>
+  <node id="10115" label="U Hohenheim"/>
+  <node id="11615" label="U Jena"/>
+  <node id="10725" label="U Kassel"/>
+  <node id="11510" label="U Kiel"/>
+  <node id="10125" label="U Konstanz"/>
+  <node id="11045" label="U Köln"/>
+  <node id="11325" label="U Leipzig"/>
+  <node id="11330" label="U Leipzig (Med. Fakultät)"/>
+  <node id="11515" label="U Lübeck"/>
+  <node id="10940" label="U Lüneburg"/>
+  <node id="11410" label="U Magdeburg"/>
+  <node id="11115" label="U Mainz"/>
+  <node id="10130" label="U Mannheim"/>
+  <node id="10730" label="U Marburg"/>
+  <node id="10230" label="U München"/>
+  <node id="11055" label="U Münster"/>
+  <node id="10945" label="U Oldenburg"/>
+  <node id="10950" label="U Osnabrück"/>
+  <node id="11060" label="U Paderborn"/>
+  <node id="10250" label="U Passau"/>
+  <node id="10415" label="U Potsdam"/>
+  <node id="10255" label="U Regensburg"/>
+  <node id="10810" label="U Rostock"/>
+  <node id="11065" label="U Siegen"/>
+  <node id="10135" label="U Stuttgart"/>
+  <node id="11130" label="U Trier"/>
+  <node id="10140" label="U Tübingen"/>
+  <node id="10145" label="U Ulm"/>
+  <node id="11070" label="U Wuppertal"/>
+  <node id="10260" label="U Würzburg"/>
+  <node id="60372" label="University of Europe for Applied Sciences Potsdam in Berlin (Priv. FH)"/>
+  <node id="60675" label="University of Europe for Applied Sciences Potsdam in Hamburg (Priv. FH)"/>
+  <node id="61063" label="University of Europe for Applied Sciences Potsdam in Iserlohn (Priv. FH)"/>
+  <node id="60437" label="University of Europe for Applied Sciences Potsdam in Potsdam (Priv. FH)"/>
+  <node id="11110" label="Universität Koblenz"/>
+  <node id="10955" label="Universität Vechta"/>
+  <node id="11075" label="Universität Witten-Herdecke (Priv. U)"/>
+  <node id="10720" label="Universitätsklinikum Gießen und Marburg (Priv. H)"/>
+  <node id="11530" label="Universitätsklinikum Schleswig-Holstein"/>
+  <node id="11120" label="Universitätsmedizin der U Mainz"/>
+  <node id="60751" label="UoL-University of Labour Frankfurt (Priv. FH)"/>
+  <node id="60184" label="VICTORIA - Internationale Hochschule Berlin in Baden Baden (Priv. FH)"/>
+  <node id="60363" label="VICTORIA - Internationale Hochschule Berlin in Berlin (Priv. FH)"/>
+  <node id="41110" label="Vinzenz Pallotti University Vallendar (Kirchl.-Theol. H)"/>
+  <node id="60180" label="VWA-Hochschule für berufsbegleitendes Studium Stuttgart (Priv. FH)"/>
+  <node id="50310" label="Weißensee Kunsthochschule Berlin (Kunst-H)"/>
+  <node id="61021" label="Westfälische H in Gelsenkirchen/Bocholt/Recklinghausen (FH)"/>
+  <node id="61325" label="Westsächsische H Zwickau, Hochschule für angewandte Wissenschaften (FH)"/>
+  <node id="B0785" label="Wiesbadener Musikakademie (WMA)"/>
+  <node id="60740" label="Wilhelm Büchner Hochschule Darmstadt (Priv. Fern-FH)"/>
+  <node id="10150" label="Wissenschaftliche H Bierbronnen (Priv. U)"/>
+  <node id="11135" label="Wissenschaftliche H für Unternehmensführung, Vallendar (Priv. U)"/>
+  <node id="60440" label="XU Exponential University Potsdam (Priv. FH)"/>
+  <node id="10160" label="Zeppelin Universität Friedrichshafen (Priv. U)"/>
+</node>

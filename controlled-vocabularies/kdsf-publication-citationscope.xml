@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Zitationsraum (HSI-Monitor)
+  KDSF ID: Klassif-L-70 (KDSF-B-6-12)
+  Standard: HSI-Monitor (Thema 'Internationale Publikationen')
+  Total Entries: 2
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_publication_citationscope" label="KDSF Herkunft der Zitationen">
+  <is-open value="false"/>
+  <node id="National" label="National"/>
+  <node id="International" label="International"/>
+</node>

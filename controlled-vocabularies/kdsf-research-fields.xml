@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Forschungsfeldklassifikation
+  KDSF ID: Klassif-L-19 (KDSF-B-16-7)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 88
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_research_fields" label="KDSF Forschungsfeldklassifikation">
+  <is-open value="true"/>
+  <node id="arbeit_und_wirtschaft" label="Arbeit und Wirtschaft">
+    <node id="139" label="139 - Arbeit und Wirtschaft - Allgemein"/>
+    <node id="111" label="111 - Arbeitswelt und -gestaltung"/>
+    <node id="067" label="067 - Digitale Wirtschaft"/>
+  </node>
+  <node id="erde_und_kosmos" label="Erde und Kosmos">
+    <node id="172" label="172 - Erde und Kosmos - Allgemein"/>
+    <node id="366" label="366 - Materie"/>
+    <node id="400" label="400 - Planet Erde"/>
+    <node id="512" label="512 - Regionen der Erde"/>
+    <node id="417" label="417 - Weltraum"/>
+  </node>
+  <node id="globalisierung_und_nachhaltigkeit" label="Globalisierung und Nachhaltigkeit">
+    <node id="007" label="007 - Globalisierung und Nachhaltigkeit - Allgemein"/>
+    <node id="728" label="728 - Entwicklungszusammenarbeit"/>
+    <node id="771" label="771 - Migration"/>
+    <node id="544" label="544 - Nachhaltigkeit"/>
+  </node>
+  <node id="industrie" label="Industrie">
+    <node id="515" label="515 - Industrie - Allgemein"/>
+    <node id="783" label="783 - Entsorgung und Recycling"/>
+    <node id="091" label="091 - Intelligente Produktion"/>
+    <node id="039" label="039 - Robotik"/>
+  </node>
+  <node id="informationstechnologie" label="Informationstechnologie">
+    <node id="080" label="080 - Informationstechnologie - Allgemein"/>
+    <node id="837" label="837 - Informationssicherheit"/>
+    <node id="586" label="586 - Informationssysteme"/>
+    <node id="434" label="434 - Informationstechnik"/>
+    <node id="524" label="524 - Internet der Dinge"/>
+    <node id="073" label="073 - Künstliche Intelligenz und Big Data"/>
+    <node id="336" label="336 - Simulationsforschung"/>
+  </node>
+  <node id="infrastruktur" label="Infrastruktur">
+    <node id="407" label="407 - Infrastruktur - Allgemein"/>
+    <node id="991" label="991 - Ballungsräume und Stadtentwicklung"/>
+    <node id="360" label="360 - Bauen und Wohnen"/>
+    <node id="851" label="851 - Infrastruktur und Netze"/>
+    <node id="940" label="940 - Mobilität, Transport und Verkehr"/>
+  </node>
+  <node id="kognition_und_wissen" label="Kognition und Wissen">
+    <node id="558" label="558 - Kognition und Wissen - Allgemein"/>
+    <node id="006" label="006 - Innovation"/>
+    <node id="391" label="391 - Lernen und Lernprozesse"/>
+    <node id="444" label="444 - Menschliches Gehirn"/>
+    <node id="132" label="132 - Sprache und Spracherlernen"/>
+    <node id="470" label="470 - Wissenstransfer und Wissensrepräsentation"/>
+  </node>
+  <node id="kultur" label="Kultur">
+    <node id="592" label="592 - Kultur - Allgemein"/>
+    <node id="209" label="209 - Kreativität und Darbietung"/>
+    <node id="743" label="743 - Kulturgüter und kulturelles Erbe"/>
+    <node id="548" label="548 - Medien"/>
+  </node>
+  <node id="leben_und_wohlergehen" label="Leben und Wohlergehen">
+    <node id="910" label="910 - Leben und Wohlergehen - Allgemein"/>
+    <node id="169" label="169 - Künstliches oder synthetisches Leben"/>
+    <node id="521" label="521 - Lebewesen"/>
+    <node id="841" label="841 - Prävention von Krankheiten"/>
+    <node id="530" label="530 - Therapie und Heilung"/>
+    <node id="213" label="213 - Zellen und Gene"/>
+  </node>
+  <node id="materialien" label="Materialien">
+    <node id="051" label="051 - Materialien - Allgemein"/>
+    <node id="539" label="539 - Oberflächen und Grenzflächen"/>
+    <node id="508" label="508 - Polymere"/>
+    <node id="426" label="426 - Werkstoffe"/>
+  </node>
+  <node id="mensch_und_gesellschaft" label="Mensch und Gesellschaft">
+    <node id="101" label="101 - Mensch und Gesellschaft - Allgemein"/>
+    <node id="660" label="660 - Demographischer Wandel"/>
+    <node id="147" label="147 - Gewalt, Konflikte und Gefahrenabwehr"/>
+    <node id="687" label="687 - Gleichstellung, Diversität und Inklusion"/>
+    <node id="307" label="307 - Politische Ordnung"/>
+    <node id="283" label="283 - Transparenz und Verantwortung"/>
+    <node id="488" label="488 - Werte und Wandel"/>
+  </node>
+  <node id="natur_und_umwelt" label="Natur und Umwelt">
+    <node id="663" label="663 - Natur und Umwelt - Allgemein"/>
+    <node id="197" label="197 - Klimaveränderung"/>
+    <node id="240" label="240 - Nahrung und Versorgung"/>
+    <node id="231" label="231 - Natürliche Ressourcen"/>
+    <node id="847" label="847 - Nutzung und Pflege von Naturräumen und Landschaften"/>
+    <node id="196" label="196 - Ökosysteme und Biodiversität"/>
+    <node id="697" label="697 - Schutz und Sicherheit vor Naturgefahren und Reaktorsicherheit"/>
+  </node>
+  <node id="technologie" label="Technologie">
+    <node id="578" label="578 - Technologie - Allgemein"/>
+    <node id="070" label="070 - Energieerzeugung und Energieumwandlung"/>
+    <node id="092" label="092 - Halbleitertechnologie"/>
+    <node id="476" label="476 - Mikro- und Nanosysteme"/>
+    <node id="179" label="179 - Optik und Photonik"/>
+    <node id="772" label="772 - Quantentechnologien"/>
+  </node>
+  <node id="wissenschaft" label="Wissenschaft">
+    <node id="605" label="605 - Wissenschaft - Allgemein"/>
+    <node id="981" label="981 - Infrastrukturen der Wissenschaft"/>
+    <node id="459" label="459 - Open Science"/>
+    <node id="266" label="266 - Wissenschaftsforschung"/>
+  </node>
+  <node id="keines_der_gelisteten_forschungsfelder" label="Keines der gelisteten Forschungsfelder">
+    <node id="001" label="001 - Anderes Forschungsfeld"/>
+  </node>
+</node>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Art des Zeitschriftenbeitrags
+  KDSF ID: Klassif-L-12 (KDSF-B-6-7)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 8
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_publication_journalarticledocumenttype" label="KDSF Dokumenttyp des Journalartikels">
+  <is-open value="false"/>
+  <node id="DT-1" label="Rezension"/>
+  <node id="DT-2" label="Wissenschaftlicher Artikel"/>
+  <node id="DT-3" label="Review"/>
+  <node id="DT-4" label="Editorial"/>
+  <node id="DT-5" label="Bibliographie"/>
+  <node id="DT-6" label="Quellenedition"/>
+  <node id="DT-7" label="Letter to the Editor"/>
+  <node id="DT-8" label="Sonstiger Dokumenttyp"/>
+</node>

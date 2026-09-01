@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Angestrebter Doktorgrad
+  KDSF ID: Klassif-L-67 (KDSF-B-3-5)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 2
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_promotion_doctoraldegreetype" label="KDSF Art des Doktorgrads">
+  <is-open value="false"/>
+  <node id="Dr. med." label="Dr. med."/>
+  <node id="Sonstige" label="Sonstige"/>
+</node>

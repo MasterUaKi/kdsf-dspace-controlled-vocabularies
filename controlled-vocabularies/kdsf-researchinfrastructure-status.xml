@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Status der Forschungsinfrastruktur
+  KDSF ID: Klassif-L-24 (KDSF-B-13-4)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_researchinfrastructure_status" label="KDSF Status der Forschungsinfrastruktur">
+  <is-open value="false"/>
+  <node id="IS-1" label="In Planung / Konzeption"/>
+  <node id="IS-2" label="Im Aufbau / Implementierung"/>
+  <node id="IS-3" label="In Betrieb / Operativ"/>
+  <node id="IS-4" label="Außer Betrieb / Stillgelegt"/>
+  <node id="IS-5" label="Abgebaut / Aufgelöst"/>
+</node>

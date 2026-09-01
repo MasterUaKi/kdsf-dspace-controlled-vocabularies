@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Kennzeichner für Publikationen
+  KDSF ID: Klassif-L-44 (KDSF-B-6-1-B)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 15
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_publication_identifiertype" label="KDSF Art des Publikationsidentifikators">
+  <is-open value="false"/>
+  <node id="ID-8-1" label="Digital Object Identifier (DOI)"/>
+  <node id="ID-8-2" label="Uniform Resource Name (URN)"/>
+  <node id="ID-8-3" label="Uniform Resource Locator (URL)"/>
+  <node id="ID-8-4" label="Uniform Resource Identifier (URI)"/>
+  <node id="ID-8-5" label="International Standard Book Number (ISBN)"/>
+  <node id="ID-8-6" label="International Standard Serial Number (ISSN)"/>
+  <node id="ID-8-7" label="International Standard Music Number (ISMN)"/>
+  <node id="ID-8-8" label="DNB-ID"/>
+  <node id="ID-8-9" label="PubMed-ID"/>
+  <node id="ID-8-10" label="PubMed Central-ID"/>
+  <node id="ID-8-11" label="Scopus-EID"/>
+  <node id="ID-8-12" label="CrossRef-ID"/>
+  <node id="ID-8-13" label="Web of Science-ID"/>
+  <node id="ID-8-14" label="OpenAlex-ID"/>
+  <node id="ID-8-15" label="Sonstiges"/>
+</node>

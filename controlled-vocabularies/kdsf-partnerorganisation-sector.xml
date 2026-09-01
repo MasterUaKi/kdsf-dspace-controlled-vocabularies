@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Sektor der Partnerorganisation
+  KDSF ID: Klassif-L-66 (KDSF-B-15-37)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_partnerorganisation_sector" label="KDSF Sektor der Partnerorganisation">
+  <is-open value="false"/>
+  <node id="OP-1" label="Wissenschaft"/>
+  <node id="OP-2" label="Wirtschaft"/>
+  <node id="OP-3" label="Öffentlicher Sektor/Politik"/>
+  <node id="OP-4" label="Organisierte Zivilgesellschaft/NGO"/>
+  <node id="OP-5" label="Sonstiges"/>
+</node>

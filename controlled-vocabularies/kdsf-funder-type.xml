@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Drittmittelgeber / Finanzarten
+  KDSF ID: Klassif-L-14 (KDSF-B-15-6)
+  Standard: Hochschulfinanzstatistik des StBA / GWK-Indikatorenkatalog
+  Total Entries: 11
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_funder_type" label="KDSF Drittmittelgeber">
+  <is-open value="true"/>
+  <node id="DK-1" label="DK-1 - Drittmittel EU und sonstige öffentliche internationale Förderorganisationen">
+    <node id="DK-1-1" label="DK-1-1 - EU"/>
+    <node id="DK-1-2" label="DK-1-2 - Sonstige öffentliche internationale Förderorganisationen"/>
+  </node>
+  <node id="DK-2" label="DK-2 - DFG"/>
+  <node id="DK-3" label="DK-3 - Bund"/>
+  <node id="DK-4" label="DK-4 - Bundesländer"/>
+  <node id="DK-5" label="DK-5 - Gewerbliche Wirtschaft und sonstige Bereiche"/>
+  <node id="DK-6" label="DK-6 - Sonstige Drittmittelgeber/-innen"/>
+  <node id="DK-7" label="DK-7 - Nicht erklärt">
+    <node id="DK-7-1" label="DK-7-1 - Nicht erklärt (Private Mittelgeber/-innen)"/>
+    <node id="DK-7-2" label="DK-7-2 - Nicht erklärt (Öffentliche Mittelgeber/-innen)"/>
+  </node>
+</node>

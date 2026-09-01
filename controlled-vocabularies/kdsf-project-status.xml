@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Projektstatus / Projektphase
+  KDSF ID: Klassif-L-15 (KDSF-B-5-2)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_project_status" label="KDSF Projektstatus">
+  <is-open value="false"/>
+  <node id="PS-1" label="Beantragt / In Begutachtung"/>
+  <node id="PS-2" label="Bewilligt / Laufend"/>
+  <node id="PS-3" label="Abgeschlossen"/>
+  <node id="PS-4" label="Abgelehnt"/>
+  <node id="PS-5" label="Vorzeitig beendet / Abgebrochen"/>
+</node>

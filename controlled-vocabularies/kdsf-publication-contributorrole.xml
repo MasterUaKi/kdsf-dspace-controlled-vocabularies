@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Beitragsrolle (CRediT)
+  KDSF ID: Klassif-L-34 (KDSF-B-6-1-C)
+  Standard: CRediT Taxonomy / KDSF 2.1
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_publication_contributorrole" label="KDSF Rolle der Person bei der Publikation">
+  <is-open value="false"/>
+  <node id="SR-1" label="Autor/-in"/>
+  <node id="SR-2" label="Herausgeber/-in"/>
+  <node id="SR-3" label="Sonstiges"/>
+</node>

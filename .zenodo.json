@@ -1,0 +1,43 @@
+{
+  "title": "KDSF 2.1 Controlled Vocabularies and Value-Pairs Configuration for DSpace and DSpace-CRIS",
+  "description": "<p><strong>English:</strong><br>This dataset and configuration package provides a complete, syntactically validated, and standardized implementation of the German Research Core Dataset (<em>Kerndatensatz Forschung - KDSF</em>, Version 2.1) controlled vocabularies and submission-form value pairs for the DSpace and DSpace-CRIS repository platforms (versions 7.x and 8.x). It includes 88 standardized XML vocabulary definitions (Klassif-L-1 to Klassif-L-70) covering academic staff, research projects, publications, doctoral degrees, intellectual property rights, research infrastructures, organizational classifications (Destatis StBA), spin-offs, transfer indicators, and academic prizes.</p><p><strong>Deutsch:</strong><br>Dieses Daten- und Konfigurationspaket enthaelt die vollstaendige, syntaktisch validierte und standardisierte Implementierung der kontrollierten Vokabulare und Value-Pairs des Kerndatensatz Forschung (KDSF, Version 2.1) fuer DSpace und DSpace-CRIS (Versionen 7.x und 8.x). Es umfasst 88 standardisierte XML-Vokabulardateien (Klassif-L-1 bis Klassif-L-70) fuer die Bereiche Beschaeftigte, Forschungsprojekte, Publikationen, Promotionen, Schutzrechte, Forschungsinfrastrukturen, Destatis-Faechersystematiken, Ausgruendungen, Transfermetadaten und wissenschaftliche Auszeichnungen.</p>",
+  "upload_type": "dataset",
+  "publication_date": "2026-09-01",
+  "creators": [
+    {
+      "name": "Riabtsev, Oleh",
+      "affiliation": "Universitaet Vechta"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "KDSF",
+    "Kerndatensatz Forschung",
+    "KDSF 2.1",
+    "DSpace",
+    "DSpace-CRIS",
+    "Controlled Vocabularies",
+    "Research Information Systems",
+    "CRIS",
+    "Metadata Standardization",
+    "Destatis",
+    "Value-Pairs"
+  ],
+  "communities": [
+    {
+      "identifier": "dspace"
+    },
+    {
+      "identifier": "cris"
+    }
+  ],
+  "language": "deu",
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://kerndatensatz-forschung.de/",
+      "scheme": "url"
+    }
+  ]
+}

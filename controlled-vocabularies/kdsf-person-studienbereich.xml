@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Studienbereich (Destatis)
+  KDSF ID: Klassif-L-60 (KDSF-B-14-3)
+  Standard: Statistisches Bundesamt (StBA), SV Personalstatistik Nr. 4.1
+  Total Entries: 65
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_person_studienbereich" label="KDSF Studienbereiche (Destatis)">
+  <is-open value="false"/>
+  <node id="58" label="Agrarwissenschaften, Lebensmittel- und Getränketechnologie"/>
+  <node id="07" label="Allgemeine und vergleichende Literatur- und Sprachwissenschaft"/>
+  <node id="08" label="Altphilologie (klassische Philologie), Neugriechisch"/>
+  <node id="10" label="Anglistik, Amerikanistik"/>
+  <node id="66" label="Architektur, Innenarchitektur"/>
+  <node id="83" label="Außerhalb der Studienbereichsgliederung"/>
+  <node id="68" label="Bauingenieurwesen"/>
+  <node id="62" label="Bergbau, Hüttenwesen"/>
+  <node id="75" label="Bildende Kunst"/>
+  <node id="42" label="Biologie"/>
+  <node id="40" label="Chemie"/>
+  <node id="77" label="Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft"/>
+  <node id="64" label="Elektrotechnik und Informationstechnik"/>
+  <node id="60" label="Ernährungs- und Haushaltswissenschaften"/>
+  <node id="33" label="Erziehungswissenschaften"/>
+  <node id="02" label="Evangelische Theologie, -Religionslehre"/>
+  <node id="59" label="Forstwissenschaft, Holzwirtschaft"/>
+  <node id="01" label="Geisteswissenschaften allgemein"/>
+  <node id="44" label="Geographie"/>
+  <node id="43" label="Geowissenschaften (ohne Geographie)"/>
+  <node id="09" label="Germanistik (Deutsch, germanische Sprachen ohne Anglistik)"/>
+  <node id="05" label="Geschichte"/>
+  <node id="76" label="Gestaltung"/>
+  <node id="48" label="Gesundheitswissenschaften"/>
+  <node id="49" label="Humanmedizin (ohne Zahnmedizin)"/>
+  <node id="71" label="Informatik"/>
+  <node id="06" label="Informations- und Bibliothekswissenschaften"/>
+  <node id="61" label="Ingenieurwesen allgemein"/>
+  <node id="18" label="Islamische Studien/Islamische Theologie"/>
+  <node id="03" label="Katholische Theologie, -Religionslehre"/>
+  <node id="34" label="Kommunikationswissenschaft/Publizistik"/>
+  <node id="14" label="Kulturwissenschaften i.e.S."/>
+  <node id="74" label="Kunst, Kunstwissenschaft allgemein"/>
+  <node id="79" label="Kunstwissenschaft/-pädagogik"/>
+  <node id="57" label="Landschaftsgestaltung/Naturschutz"/>
+  <node id="63" label="Maschinenbau/Verfahrenstechnik"/>
+  <node id="72" label="Materialwissenschaft und Werkstofftechnik"/>
+  <node id="37" label="Mathematik"/>
+  <node id="36" label="Mathematik, Naturwissenschaften allgemein"/>
+  <node id="19" label="Medienwissenschaft"/>
+  <node id="78" label="Musik"/>
+  <node id="80" label="Musikwissenschaft/-pädagogik"/>
+  <node id="41" label="Pharmazie"/>
+  <node id="04" label="Philosophie"/>
+  <node id="39" label="Physik, Astronomie"/>
+  <node id="25" label="Politikwissenschaft"/>
+  <node id="32" label="Psychologie"/>
+  <node id="67" label="Raumplanung"/>
+  <node id="28" label="Rechtswissenschaften"/>
+  <node id="24" label="Regionalwissenschaften"/>
+  <node id="11" label="Romanistik"/>
+  <node id="12" label="Slawistik, Baltistik, Finno-Ugristik"/>
+  <node id="13" label="Sonstige Sprach- und Kulturwissenschaften"/>
+  <node id="23" label="Sozial- und Verhaltenswissenschaften, Sport allgemein"/>
+  <node id="27" label="Sozialwesen"/>
+  <node id="26" label="Sozialwissenschaften/Soziologie"/>
+  <node id="35" label="Sport, Sportwissenschaft"/>
+  <node id="65" label="Verkehrstechnik, Nautik"/>
+  <node id="69" label="Vermessungswesen"/>
+  <node id="29" label="Verwaltungswissenschaften"/>
+  <node id="51" label="Veterinärmedizin"/>
+  <node id="70" label="Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt"/>
+  <node id="31" label="Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt"/>
+  <node id="30" label="Wirtschaftswissenschaften"/>
+  <node id="50" label="Zahnmedizin"/>
+</node>

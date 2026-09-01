@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Kennzeichner für Personen
+  KDSF ID: Klassif-L-46 (KDSF-B-1-1-B)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 11
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_person_identifiertype" label="KDSF Typ des Identifikators (Person)">
+  <is-open value="false"/>
+  <node id="ID-0-1" label="Organisationsinterne Personalnummer"/>
+  <node id="ID-0-2" label="Gemeinsame Normdatei (GND)"/>
+  <node id="ID-0-3" label="Open Researcher and Contributor ID (ORCID)"/>
+  <node id="ID-0-4" label="Username"/>
+  <node id="ID-0-5" label="E-Mail"/>
+  <node id="ID-0-6" label="Web of Science ResearcherID"/>
+  <node id="ID-0-7" label="Scopus Author ID"/>
+  <node id="ID-0-8" label="International Standard Name Identifier (ISNI)"/>
+  <node id="ID-0-9" label="OpenAlex Author ID"/>
+  <node id="ID-0-10" label="Dimensions Researcher ID"/>
+  <node id="ID-0-11" label="Sonstiges"/>
+</node>

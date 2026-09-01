@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Befristungsstatus
+  KDSF ID: Klassif-L-6 (KDSF-B-1-6)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_contracttype" label="KDSF Art des Beschäftigungsverhältnisses">
+  <is-open value="false"/>
+  <node id="AB-1" label="Arbeitsvertragsverhältnis"/>
+  <node id="AB-2" label="Beamten-/Beamtinnenverhältnis"/>
+  <node id="AB-3" label="Sonstiges"/>
+</node>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Dienstrang / Professorentitel
+  KDSF ID: Klassif-L-10 (KDSF-B-1-12)
+  Standard: Statistisches Bundesamt (StBA)
+  Total Entries: 9
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_professortitle" label="KDSF Dienst-/Berufsbezeichnung Professor/-innen">
+  <is-open value="false"/>
+  <node id="BZ-1" label="Professor/-in"/>
+  <node id="BZ-2" label="Juniorprofessor/-in"/>
+  <node id="BZ-3" label="Sonstige/-r Professor/-in">
+    <node id="BZ-3-1" label="Hauptberufliche/-r Gastprofessor/-in"/>
+    <node id="BZ-3-2" label="Seniorprofessor/-in"/>
+    <node id="BZ-3-3" label="Vertretungsprofessor/-in / Lehrstuhlvertreter/-in"/>
+    <node id="BZ-3-4" label="Stiftungsprofessor/-in"/>
+    <node id="BZ-3-5" label="Außerplanmäßige/-r Professor/-in"/>
+    <node id="BZ-3-6" label="Sonstige Bezeichnung"/>
+  </node>
+</node>

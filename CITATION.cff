@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these controlled vocabularies and configuration files in your repository, please cite it as below."
+title: "KDSF 2.1 Controlled Vocabularies and Value-Pairs Configuration for DSpace-CRIS"
+abstract: "Complete, standardized, and validated XML controlled vocabularies and submission form value-pairs implementing the German Kerndatensatz Forschung (KDSF 2.1) standard for DSpace and DSpace-CRIS repositories."
+authors:
+  - family-names: "Riabtsev"
+    given-names: "Oleh"
+    affiliation: "Universitaet Vechta"
+version: "1.0.0"
+date-released: "2026-09-01"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/MasterUaKi/kdsf-dspace-controlled-vocabularies"
+keywords:
+  - "KDSF 2.1"
+  - "Kerndatensatz Forschung"
+  - "DSpace"
+  - "DSpace-CRIS"
+  - "Controlled Vocabularies"
+  - "Research Information Systems"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Kennzeichner für Drittorganisationen
+  KDSF ID: Klassif-L-45 (KDSF-B-15-1-B)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 10
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_org_identifiertype" label="KDSF Art des Kennzeichners für Drittorganisationen">
+  <is-open value="false"/>
+  <node id="ID-15-1" label="ROR ID (Research Organization Registry)"/>
+  <node id="ID-15-2" label="Gemeinsame Normdatei (GND)"/>
+  <node id="ID-15-3" label="International Standard Name Identifier (ISNI)"/>
+  <node id="ID-15-4" label="DFG-Inst-ID (GERiT ID - German Research Institutions)"/>
+  <node id="ID-15-5" label="Open Funder Registry (OFR)"/>
+  <node id="ID-15-6" label="Ringgold ID"/>
+  <node id="ID-15-7" label="Wikidata ID"/>
+  <node id="ID-15-8" label="OpenAlex ID"/>
+  <node id="ID-15-9" label="Interner Identifier"/>
+  <node id="ID-15-10" label="Sonstiges"/>
+</node>

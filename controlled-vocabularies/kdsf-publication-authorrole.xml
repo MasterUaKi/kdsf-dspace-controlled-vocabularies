@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Autorenrolle
+  KDSF ID: Klassif-L-33 (KDSF-B-6-1-A)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 4
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_publication_authorrole" label="KDSF Autorenrolle">
+  <is-open value="false"/>
+  <node id="AR-1" label="Erstautor/-in"/>
+  <node id="AR-2" label="Letztautor/-in"/>
+  <node id="AR-3" label="Korrespondierende/-r Autor/-in"/>
+  <node id="AR-4" label="Koautor/-in"/>
+</node>

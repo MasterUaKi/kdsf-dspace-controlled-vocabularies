@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Sprachcodes (ISO 639-1)
+  KDSF ID: Klassif-L-57 (KDSF-Allgemein)
+  Standard: ISO 639-1
+  Total Entries: 184
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_languages" label="KDSF Sprachen (ISO 639)">
+  <is-open value="false"/>
+  <node id="ab" label="Abchasisch (ab / abk)"/>
+  <node id="aa" label="Afar (aa / aar)"/>
+  <node id="af" label="Afrikaans (af / afr)"/>
+  <node id="ak" label="Akan (ak / aka)"/>
+  <node id="sq" label="Albanisch (sq / sqi)"/>
+  <node id="am" label="Amharisch (am / amh)"/>
+  <node id="ar" label="Arabisch (ar / ara)"/>
+  <node id="an" label="Aragonesisch (an / arg)"/>
+  <node id="hy" label="Armenisch (hy / hye)"/>
+  <node id="az" label="Aserbaidschanisch (az / aze)"/>
+  <node id="as" label="Assamesisch (as / asm)"/>
+  <node id="av" label="Avarisch (av / ava)"/>
+  <node id="ae" label="Avestisch (ae / ave)"/>
+  <node id="ay" label="Aymara (ay / aym)"/>
+  <node id="bm" label="Bambara (bm / bam)"/>
+  <node id="ba" label="Baschkirisch (ba / bak)"/>
+  <node id="eu" label="Baskisch (eu / eus)"/>
+  <node id="be" label="Belarussisch (be / bel)"/>
+  <node id="bn" label="Bengalisch (bn / ben)"/>
+  <node id="bh" label="Bihari (bh / bih)"/>
+  <node id="my" label="Birmanisch (my / mya)"/>
+  <node id="bi" label="Bislama (bi / bis)"/>
+  <node id="nb" label="Bokmål (nb / nob)"/>
+  <node id="bs" label="Bosnisch (bs / bos)"/>
+  <node id="br" label="Bretonisch (br / bre)"/>
+  <node id="bg" label="Bulgarisch (bg / bul)"/>
+  <node id="rm" label="Bündnerromanisch, Romanisch (rm / roh)"/>
+  <node id="ch" label="Chamorro (ch / cha)"/>
+  <node id="ny" label="Chichewa (ny / nya)"/>
+  <node id="zh" label="Chinesisch (zh / zho)"/>
+  <node id="cr" label="Cree (cr / cre)"/>
+  <node id="da" label="Dänisch (da / dan)"/>
+  <node id="de" label="Deutsch (de / deu)"/>
+  <node id="dv" label="Dhivehi (dv / div)"/>
+  <node id="dz" label="Dzongkha (dz / dzo)"/>
+  <node id="en" label="Englisch (en / eng)"/>
+  <node id="eo" label="Esperanto (eo / epo)"/>
+  <node id="et" label="Estnisch (et / est)"/>
+  <node id="ee" label="Ewe (ee / ewe)"/>
+  <node id="fo" label="Färöisch (fo / fao)"/>
+  <node id="fj" label="Fidschi (fj / fij)"/>
+  <node id="fi" label="Finnisch (fi / fin)"/>
+  <node id="fr" label="Französisch (fr / fra)"/>
+  <node id="ff" label="Fulfulde (ff / ful)"/>
+  <node id="gl" label="Galicisch, Galegisch (gl / glg)"/>
+  <node id="ka" label="Georgisch (ka / kat)"/>
+  <node id="el" label="Griechisch (el / ell)"/>
+  <node id="kl" label="Grönländisch, Kalaallisut (kl / kal)"/>
+  <node id="gn" label="Guaraní (gn / grn)"/>
+  <node id="gu" label="Gujarati (gu / guj)"/>
+  <node id="ht" label="Haitianisch-Kreolisch (ht / hat)"/>
+  <node id="ha" label="Hausa (ha / hau)"/>
+  <node id="he" label="Hebräisch (he / heb)"/>
+  <node id="hi" label="Hindi (hi / hin)"/>
+  <node id="ho" label="Hiri Motu (ho / hmo)"/>
+  <node id="io" label="Ido (io / ido)"/>
+  <node id="ig" label="Igbo (ig / ibo)"/>
+  <node id="id" label="Indonesisch (id / ind)"/>
+  <node id="ia" label="Interlingua (ia / ina)"/>
+  <node id="ie" label="Interlingue (ie / ile)"/>
+  <node id="iu" label="Inuktitut (iu / iku)"/>
+  <node id="ik" label="Inupiaq (ik / ipk)"/>
+  <node id="ga" label="Irisch (ga / gle)"/>
+  <node id="is" label="Isländisch (is / isl)"/>
+  <node id="it" label="Italienisch (it / ita)"/>
+  <node id="ja" label="Japanisch (ja / jpn)"/>
+  <node id="jv" label="Javanisch (jv / jav)"/>
+  <node id="yi" label="Jiddisch (yi / yid)"/>
+  <node id="kn" label="Kannada (kn / kan)"/>
+  <node id="kr" label="Kanuri (kr / kau)"/>
+  <node id="kk" label="Kasachisch (kk / kaz)"/>
+  <node id="ks" label="Kashmiri (ks / kas)"/>
+  <node id="ca" label="Katalanisch, Valencianisch (ca / cat)"/>
+  <node id="km" label="Khmer (km / khm)"/>
+  <node id="kg" label="Kikongo (kg / kon)"/>
+  <node id="ki" label="Kikuyu (ki / kik)"/>
+  <node id="lu" label="Kiluba (lu / lub)"/>
+  <node id="rw" label="Kinyarwanda, Ruandisch (rw / kin)"/>
+  <node id="cu" label="Kirchenslawisch, Altkirchenslawisch (cu / chu)"/>
+  <node id="ky" label="Kirgisisch (ky / kir)"/>
+  <node id="rn" label="Kirundi (rn / run)"/>
+  <node id="kv" label="Komi (kv / kom)"/>
+  <node id="ko" label="Koreanisch (ko / kor)"/>
+  <node id="kw" label="Kornisch (kw / cor)"/>
+  <node id="co" label="Korsisch (co / cos)"/>
+  <node id="hr" label="Kroatisch (hr / hrv)"/>
+  <node id="ku" label="Kurdisch (ku / kur)"/>
+  <node id="lo" label="Laotisch (lo / lao)"/>
+  <node id="la" label="Latein (la / lat)"/>
+  <node id="lv" label="Lettisch (lv / lav)"/>
+  <node id="li" label="Limburgisch, Südniederfränkisch (li / lim)"/>
+  <node id="ln" label="Lingála (ln / lin)"/>
+  <node id="lt" label="Litauisch (lt / lit)"/>
+  <node id="lg" label="Luganda (lg / lug)"/>
+  <node id="lb" label="Luxemburgisch (lb / ltz)"/>
+  <node id="mg" label="Malagasy, Malagassi (mg / mlg)"/>
+  <node id="ms" label="Malaiisch (ms / msa)"/>
+  <node id="ml" label="Malayalam (ml / mal)"/>
+  <node id="mt" label="Maltesisch (mt / mlt)"/>
+  <node id="gv" label="Manx, Manx-Gälisch (gv / glv)"/>
+  <node id="mi" label="Maori (mi / mri)"/>
+  <node id="mr" label="Marathi (mr / mar)"/>
+  <node id="mh" label="Marshallesisch (mh / mah)"/>
+  <node id="mk" label="Mazedonisch (mk / mkd)"/>
+  <node id="mn" label="Mongolisch (mn / mon)"/>
+  <node id="na" label="Nauruisch (na / nau)"/>
+  <node id="nv" label="Navajo (nv / nav)"/>
+  <node id="ng" label="Ndonga (ng / ndo)"/>
+  <node id="ne" label="Nepali (ne / nep)"/>
+  <node id="nl" label="Niederländisch, Belgisches Niederländisch (nl / nld)"/>
+  <node id="nd" label="Nord-Ndebele (nd / nde)"/>
+  <node id="se" label="Nordsamisch (se / sme)"/>
+  <node id="no" label="Norwegisch (no / nor)"/>
+  <node id="nn" label="Nynorsk (nn / nno)"/>
+  <node id="oj" label="Ojibwe (oj / oji)"/>
+  <node id="oc" label="Okzitanisch (oc / oci)"/>
+  <node id="or" label="Oriya (or / ori)"/>
+  <node id="om" label="Oromo (om / orm)"/>
+  <node id="os" label="Ossetisch (os / oss)"/>
+  <node id="hz" label="Otjiherero (hz / her)"/>
+  <node id="pi" label="Pali (pi / pli)"/>
+  <node id="pa" label="Panjabi, Pandschabi (pa / pan)"/>
+  <node id="ps" label="Paschtunisch (ps / pus)"/>
+  <node id="fa" label="Persisch (fa / fas)"/>
+  <node id="pl" label="Polnisch (pl / pol)"/>
+  <node id="pt" label="Portugiesisch (pt / por)"/>
+  <node id="qu" label="Quechua (qu / que)"/>
+  <node id="ro" label="Rumänisch (ro / ron)"/>
+  <node id="ru" label="Russisch (ru / rus)"/>
+  <node id="sm" label="Samoanisch (sm / smo)"/>
+  <node id="sg" label="Sango (sg / sag)"/>
+  <node id="sa" label="Sanskrit (sa / san)"/>
+  <node id="sc" label="Sardisch (sc / srd)"/>
+  <node id="gd" label="Schottisch-gälisch (gd / gla)"/>
+  <node id="sv" label="Schwedisch (sv / swe)"/>
+  <node id="sr" label="Serbisch (sr / srp)"/>
+  <node id="st" label="Sesotho, Süd-Sotho (st / sot)"/>
+  <node id="tn" label="Setswana (tn / tsn)"/>
+  <node id="sn" label="Shona (sn / sna)"/>
+  <node id="sd" label="Sindhi (sd / snd)"/>
+  <node id="si" label="Singhalesisch (si / sin)"/>
+  <node id="ss" label="Siswati (ss / ssw)"/>
+  <node id="sk" label="Slowakisch (sk / slk)"/>
+  <node id="sl" label="Slowenisch (sl / slv)"/>
+  <node id="so" label="Somali (so / som)"/>
+  <node id="es" label="Spanisch, Kastilisch (es / spa)"/>
+  <node id="su" label="Sundanesisch (su / sun)"/>
+  <node id="sw" label="Swahili (sw / swa)"/>
+  <node id="nr" label="Süd-Ndebele (nr / nbl)"/>
+  <node id="tg" label="Tadschikisch (tg / tgk)"/>
+  <node id="tl" label="Tagalog (tl / tgl)"/>
+  <node id="ty" label="Tahitianisch, Tahitisch (ty / tah)"/>
+  <node id="ta" label="Tamil (ta / tam)"/>
+  <node id="tt" label="Tatarisch (tt / tat)"/>
+  <node id="te" label="Telugu (te / tel)"/>
+  <node id="th" label="Thai (th / tha)"/>
+  <node id="bo" label="Tibetisch (bo / bod)"/>
+  <node id="ti" label="Tigrinya (ti / tir)"/>
+  <node id="to" label="Tongaisch (to / ton)"/>
+  <node id="cs" label="Tschechisch (cs / ces)"/>
+  <node id="ce" label="Tschetschenisch (ce / che)"/>
+  <node id="cv" label="Tschuwaschisch (cv / chv)"/>
+  <node id="ve" label="Tshivenda (ve / ven)"/>
+  <node id="tr" label="Türkisch (tr / tur)"/>
+  <node id="tk" label="Turkmenisch (tk / tuk)"/>
+  <node id="tw" label="Twi (tw / twi)"/>
+  <node id="ug" label="Uigurisch (ug / uig)"/>
+  <node id="uk" label="Ukrainisch (uk / ukr)"/>
+  <node id="hu" label="Ungarisch (hu / hun)"/>
+  <node id="ur" label="Urdu (ur / urd)"/>
+  <node id="uz" label="Usbekisch (uz / uzb)"/>
+  <node id="vi" label="Vietnamesisch (vi / vie)"/>
+  <node id="vo" label="Volapük (vo / vol)"/>
+  <node id="cy" label="Walisisch (cy / cym)"/>
+  <node id="wa" label="Wallonisch (wa / wln)"/>
+  <node id="fy" label="Westfriesisch (fy / fry)"/>
+  <node id="wo" label="Wolof (wo / wol)"/>
+  <node id="ts" label="Xitsonga (ts / tso)"/>
+  <node id="ii" label="Yi (ii / iii)"/>
+  <node id="yo" label="Yoruba (yo / yor)"/>
+  <node id="za" label="Zhuang (za / zha)"/>
+  <node id="xh" label="isiXhosa (xh / xho)"/>
+  <node id="zu" label="isiZulu (zu / zul)"/>
+  <node id="kj" label="oshiKwanyama (kj / kua)"/>
+</node>

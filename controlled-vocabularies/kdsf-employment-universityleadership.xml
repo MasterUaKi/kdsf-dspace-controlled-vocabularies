@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Hochschulleitungsfunktion
+  KDSF ID: Klassif-L-35 (KDSF-B-1-15)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_universityleadership" label="KDSF Position in der Hochschulleitung">
+  <is-open value="false"/>
+  <node id="1" label="Rektor/-in"/>
+  <node id="2" label="Prorektor/-in"/>
+  <node id="3" label="Präsident/-in"/>
+  <node id="4" label="Vizepräsident/-in"/>
+  <node id="5" label="Kanzler/-in"/>
+</node>

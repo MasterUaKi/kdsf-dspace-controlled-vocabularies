@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Organisationsdifferenzierung
+  KDSF ID: Klassif-L-64 (KDSF-B-15-34)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_organisation_differentiation" label="KDSF Organisationsdifferenzierung">
+  <is-open value="false"/>
+  <node id="OD-1" label="Universität"/>
+  <node id="OD-2" label="FH / HAW"/>
+  <node id="OD-3" label="AUF"/>
+  <node id="OD-4" label="Wirtschaft"/>
+  <node id="OD-5" label="Sonstiges"/>
+</node>

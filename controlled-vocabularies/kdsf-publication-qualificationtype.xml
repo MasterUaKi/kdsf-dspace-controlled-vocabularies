@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Art der Qualifikationsschrift
+  KDSF ID: Klassif-L-41 (KDSF-B-6-10)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 10
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_publication_qualificationtype" label="KDSF Art der Qualifikationsschrift">
+  <is-open value="false"/>
+  <node id="QS-0" label="Nicht zutreffend"/>
+  <node id="QS-1" label="Dissertation"/>
+  <node id="QS-2" label="Habilitationsschrift"/>
+  <node id="QS-3" label="Sonstige Qualifikationsschrift">
+    <node id="QS-3-1" label="Bachelorarbeit"/>
+    <node id="QS-3-2" label="Masterarbeit"/>
+    <node id="QS-3-3" label="Magisterarbeit"/>
+    <node id="QS-3-4" label="Diplomarbeit"/>
+    <node id="QS-3-5" label="Studienarbeit"/>
+    <node id="QS-3-6" label="Sonstiges"/>
+  </node>
+</node>

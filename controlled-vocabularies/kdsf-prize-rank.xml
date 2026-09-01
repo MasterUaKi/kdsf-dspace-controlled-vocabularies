@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Rang / Preiskategorie
+  KDSF ID: Klassif-L-42 (KDSF-B-17-2)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 6
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_prize_rank" label="KDSF Rang und Platzierung">
+  <is-open value="false"/>
+  <node id="RP-1" label="1. Platz"/>
+  <node id="RP-2" label="2. Platz"/>
+  <node id="RP-3" label="3. Platz"/>
+  <node id="RP-4" label="Gold"/>
+  <node id="RP-5" label="Silber"/>
+  <node id="RP-6" label="Bronze"/>
+</node>

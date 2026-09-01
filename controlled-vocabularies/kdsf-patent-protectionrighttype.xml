@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Schutzrechtsart
+  KDSF ID: Klassif-L-31 (KDSF-B-9-1)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 5
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_patent_protectionrighttype" label="KDSF Art des Schutzrechts">
+  <is-open value="false"/>
+  <node id="Patent" label="Patent"/>
+  <node id="Marke" label="Marke"/>
+  <node id="Gebrauchsmuster" label="Gebrauchsmuster"/>
+  <node id="Eingetragenes_Design" label="Eingetragenes Design"/>
+  <node id="Sonstiges" label="Sonstiges"/>
+</node>

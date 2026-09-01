@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Laufbahngruppe / Status
+  KDSF ID: Klassif-L-30 (KDSF-B-1-14)
+  Standard: Statistisches Bundesamt (StBA)
+  Total Entries: 10
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_careergroup" label="KDSF Laufbahngruppe (Destatis)">
+  <is-open value="false"/>
+  <node id="Wissenschaftliches und künstlerisches Personal" label="Wissenschaftliches und künstlerisches Personal">
+    <node id="1" label="Einfacher Dienst"/>
+    <node id="2" label="Mittlerer Dienst"/>
+    <node id="3" label="Gehobener Dienst"/>
+    <node id="4" label="Höherer Dienst"/>
+    <node id="9" label="Ohne Angabe"/>
+  </node>
+  <node id="Verwaltungs-, technisches und sonstiges Personal" label="Verwaltungs-, technisches und sonstiges Personal">
+    <node id="5" label="Laufbahngruppe 1 (Einfacher und Mittlerer Dienst)"/>
+    <node id="6" label="Laufbahngruppe 2 (Gehobener und Höherer Dienst)"/>
+    <node id="9" label="Ohne Angabe"/>
+  </node>
+</node>

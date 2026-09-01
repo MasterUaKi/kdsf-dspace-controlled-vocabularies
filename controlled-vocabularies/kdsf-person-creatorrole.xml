@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Urheberrolle
+  KDSF ID: Klassif-L-43 (KDSF-Allgemein)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 3
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_person_creatorrole" label="KDSF Schöpfer/-innenrolle">
+  <is-open value="false"/>
+  <node id="SR-1" label="Autor/-in"/>
+  <node id="SR-2" label="Herausgeber/-in"/>
+  <node id="SR-3" label="Sonstiges"/>
+</node>

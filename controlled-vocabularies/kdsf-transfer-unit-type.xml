@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Art der Transfereinheit
+  KDSF ID: Klassif-L-61 (KDSF-B-14-15)
+  Standard: KDSF-Standard Version 2.1
+  Total Entries: 10
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_transfer_unit_type" label="KDSF Art der Transfereinheit">
+  <is-open value="false"/>
+  <node id="TE-1" label="Fundraising"/>
+  <node id="TE-2" label="Karriereberatung mit Fokus Studierende"/>
+  <node id="TE-3" label="Karriereberatung mit Fokus Postgraduierte"/>
+  <node id="TE-4" label="Alumni-Management"/>
+  <node id="TE-5" label="Gründungsunterstützung"/>
+  <node id="TE-6" label="Transferorientierte Lehre und Weiterbildung"/>
+  <node id="TE-7" label="Wissenschaftliche Beratung für Entscheider/-innen"/>
+  <node id="TE-8" label="Forschung und Entwickeln mit der Gesellschaft"/>
+  <node id="TE-9" label="Wissenschaftsdialog"/>
+  <node id="TE-10" label="Sonstige Transfereinheit"/>
+</node>

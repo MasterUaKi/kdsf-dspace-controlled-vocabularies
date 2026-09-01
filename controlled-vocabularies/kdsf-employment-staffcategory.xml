@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ====================================================================
+  KDSF 2.1 Controlled Vocabulary: Personalkategorien
+  KDSF ID: Klassif-L-2 (KDSF-B-1-2)
+  Standard: Statistisches Bundesamt (StBA), SV Personalstatistik Nr. 1
+  Total Entries: 48
+  Version: 1.0.0
+  Date: 2026-09-01
+  Author: Oleh Riabtsev
+  ====================================================================
+-->
+<node id="kdsf_employment_staffcategory" label="KDSF Personalkategorie (Destatis)">
+  <is-open value="false"/>
+  <node id="PK-1" label="Wissenschaftliches und künstlerisches Personal">
+    <node id="PK-1-1" label="Professor/-innen">
+      <node id="010" label="Universitätsprofessoren"/>
+      <node id="020" label="Professoren an wiss. Hochschulen"/>
+      <node id="030" label="Professoren an Kunsthochschulen"/>
+      <node id="040" label="Professoren"/>
+      <node id="050" label="Juniorprofessoren"/>
+      <node id="055" label="Tandemprofessur / Nachwuchsprofessur (an FH)"/>
+      <node id="060" label="Gastprofessoren (hauptberuflich)"/>
+    </node>
+    <node id="PK-1-2" label="Wissenschaftliche und künstlerische Mitarbeiter/-innen">
+      <node id="210" label="Akad. Räte, Oberräte und Direktoren"/>
+      <node id="220" label="Wiss. und künstler. Mitarbeiter im Angestelltenverhältnis"/>
+      <node id="230" label="Akademische Mitarbeiter"/>
+    </node>
+    <node id="PK-1-3" label="Wissenschaftliche oder künstlerische Hilfskräfte">
+      <node id="610" label="Wiss. Hilfskräfte"/>
+      <node id="620" label="Tutoren"/>
+      <node id="630" label="Studentische Hilfskräfte"/>
+    </node>
+    <node id="PK-1-4" label="Weitere wissenschaftliche und künstlerische Mitarbeiter/-innen">
+      <node id="110" label="Hochschuldozenten"/>
+      <node id="120" label="Universitätsdozenten"/>
+      <node id="130" label="Oberassistenten"/>
+      <node id="140" label="Oberingenieure"/>
+      <node id="150" label="Hochschulassistenten"/>
+      <node id="160" label="Wissensch. und künstler. Assistenten"/>
+      <node id="170" label="Akad. (Ober)Rat auf Zeit"/>
+      <node id="310" label="Studienräte, Studiendirektor im Hochschuldienst"/>
+      <node id="320" label="Fachlehrer, techn. Lehrer"/>
+      <node id="330" label="Lektoren"/>
+      <node id="340" label="Sonst. Lehrkräfte für besondere Aufgaben"/>
+    </node>
+  </node>
+  <node id="PK-2" label="Wissenschaftsunterstützendes Personal">
+    <node id="720" label="Bibliothekspersonal"/>
+    <node id="730" label="Technisches Personal"/>
+  </node>
+  <node id="PK-3" label="Verwaltungspersonal">
+    <node id="710" label="Verwaltungspersonal"/>
+  </node>
+  <node id="PK-4" label="Auszubildende">
+    <node id="770" label="Auszubildende"/>
+  </node>
+  <node id="PK-5" label="Praktikant/-innen">
+    <node id="780" label="Praktikanten"/>
+  </node>
+  <node id="PK-6" label="Sonstiges Verwaltungs- und technisches Personal">
+    <node id="740" label="Sonstiges Personal"/>
+    <node id="750" label="Pflegepersonal"/>
+    <node id="860" label="Sonstige Hilfskräfte"/>
+  </node>
+  <node id="PK-7" label="Sonstiges wissenschaftliches und künstlerisches Personal">
+    <node id="410" label="Professoren und Gastprofessoren (nebenberufl.)"/>
+    <node id="420" label="Emeriti, Professoren im Ruhestand"/>
+    <node id="510" label="Lehrbeauftragte (ohne Honorarprofessoren)"/>
+    <node id="520" label="Honorarprofessoren"/>
+    <node id="530" label="Privatdozenten, apl. Professoren"/>
+  </node>
+</node>
